@@ -1,0 +1,1899 @@
+/** Outpicked **/
+a[href="/hero-queenofpain"]:after, a[href="/hero-abaddon"]:after, a[href="/hero-ogremagi"]:after, a[href="/hero-enchantress"]:after, a[href="/hero-windranger"]:after, a[href="/hero-nyxassassin"]:after, a[href="/hero-weaver"]:after, a[href="/hero-bane"]:after, a[href="/hero-gyrocopter"]:after, a[href="/hero-abyssalunderlord"]:after, a[href="/hero-phantomlancer"]:after, a[href="/hero-nightstalker"]:after, a[href="/hero-lycan"]:after, a[href="/hero-spiritbreaker"]:after, a[href="/hero-broodmother"]:after, a[href="/hero-clinkz"]:after, a[href="/hero-tinker"]:after, a[href="/hero-centaurwarrunner"]:after, a[href="/hero-eldertitan"]:after, a[href="/hero-chen"]:after, a[href="/hero-sandking"]:after, a[href="/hero-enigma"]:after, a[href="/hero-facelessvoid"]:after, a[href="/hero-dazzle"]:after, a[href="/hero-warlock"]:after, a[href="/hero-undying"]:after, a[href="/hero-shadowdemon"]:after, a[href="/hero-keeperofthelight"]:after, a[href="/hero-naturesprophet"]:after, a[href="/hero-bountyhunter"]:after, a[href="/hero-outworlddevourer"]:after, a[href="/hero-huskar"]:after, a[href="/hero-phoenix"]:after, a[href="/hero-pheonix"]:after, a[href="/hero-io"]:after, a[href="/hero-darkseer"]:after, a[href="/hero-trollwarlord"]:after, a[href="/hero-jakiro"]:after, a[href="/hero-batrider"]:after, a[href="/hero-invoker"]:after, a[href="/hero-ancientapparition"]:after, a[href="/hero-sniper"]:after, a[href="/hero-lich"]:after, a[href="/hero-wraithking"]:after, a[href="/hero-dragonknight"]:after, a[href="/hero-deathprophet"]:after, a[href="/hero-kunkka"]:after, a[href="/hero-templarassassin"]:after, a[href="/hero-venomancer"]:after, a[href="/hero-leshrac"]:after, a[href="/hero-tidehunter"]:after, a[href="/hero-lina"]:after, a[href="/hero-lion"]:after, a[href="/hero-doom"]:after, a[href="/hero-luna"]:after, a[href="/hero-antimage"]:after, a[href="/hero-magnus"]:after, a[href="/hero-brewmaster"]:after, a[href="/hero-medusa"]:after, a[href="/hero-meepo"]:after, a[href="/hero-spectre"]:after, a[href="/hero-mirana"]:after, a[href="/hero-axe"]:after, a[href="/hero-morphling"]:after, a[href="/hero-phantomassassin"]:after, a[href="/hero-lifestealer"]:after, a[href="/hero-chaosknight"]:after, a[href="/hero-shadowfiend"]:after, a[href="/hero-silencer"]:after, a[href="/hero-puck"]:after, a[href="/hero-pudge"]:after, a[href="/hero-pugna"]:after, a[href="/hero-omniknight"]:after, a[href="/hero-earthshaker"]:after, a[href="/hero-stormspirit"]:after, a[href="/hero-clockwerk"]:after, a[href="/hero-razor"]:after, a[href="/hero-alchemist"]:after, a[href="/hero-beastmaster"]:after, a[href="/hero-shadowshaman"]:after, a[href="/hero-bristleback"]:after, a[href="/hero-riki"]:after, a[href="/hero-treantprotector"]:after, a[href="/hero-necrophos"]:after, a[href="/hero-rubick"]:after, a[href="/hero-crystalmaiden"]:after, a[href="/hero-vengefulspirit"]:after, a[href="/hero-slardar"]:after, a[href="/hero-slark"]:after, a[href="/hero-nagasiren"]:after, a[href="/hero-techies"]:after, a[href="/hero-bloodseeker"]:after, a[href="/hero-sven"]:after, a[href="/hero-lonedruid"]:after, a[href="/hero-terrorblade"]:after, a[href="/hero-disruptor"]:after, a[href="/hero-tiny"]:after, a[href="/hero-drowranger"]:after, a[href="/hero-ursa"]:after, a[href="/hero-viper"]:after, a[href="/hero-visage"]:after, a[href="/hero-tusk"]:after, a[href="/hero-witchdoctor"]:after, a[href="/hero-juggernaut"]:after, a[href="/hero-zeus"]:after, a[href="/hero-oracle"]:after, a[href="/hero-earthspirit"]:after, a[href="/hero-winterwyvern"]:after, a[href="/hero-arcwarden"]:after, a[href="/hero-legioncommander"]:after, a[href="/hero-timbersaw"]:after, a[href="/hero-skywrathmage"]:after, a[href="/hero-emberspirit"]:after, a[href="/hero-linaarcana"]:after, a[href="/hero-legioncommanderarcana"]:after, a[href="/hero-terrorbladearcana"]:after, a[href="/hero-techiesarcana"]:after, a[href="/hero-shadowfiendarcana"]:after, a[href="/hero-phantomassassinarcana"]:after, a[href="/hero-crystalmaidenarcana"]:after {
+ background:transparent url(%%user-secret%%) no-repeat;
+ width:50px;
+ height:28px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ vertical-align: middle;
+ content: "";
+}
+a[href="/hero-queenofpain"]:after {content: ""; background-position: 0 0px}
+a[href="/hero-abaddon"]:after {content: ""; background-position: 0 -28px}
+a[href="/hero-ogremagi"]:after {content: ""; background-position: 0 -56px}
+a[href="/hero-enchantress"]:after {content: ""; background-position: 0 -84px}
+a[href="/hero-windranger"]:after {content: ""; background-position: 0 -112px}
+a[href="/hero-nyxassassin"]:after {content: ""; background-position: 0 -140px}
+a[href="/hero-weaver"]:after {content: ""; background-position: 0 -168px}
+a[href="/hero-bane"]:after {content: ""; background-position: 0 -196px}
+a[href="/hero-gyrocopter"]:after {content: ""; background-position: 0 -224px}
+a[href="/hero-abyssalunderlord"]:after {content: ""; background-position: 0 -252px}
+a[href="/hero-phantomlancer"]:after {content: ""; background-position: 0 -280px}
+a[href="/hero-nightstalker"]:after {content: ""; background-position: 0 -308px}
+a[href="/hero-lycan"]:after {content: ""; background-position: 0 -336px}
+a[href="/hero-spiritbreaker"]:after {content: ""; background-position: 0 -364px}
+a[href="/hero-broodmother"]:after {content: ""; background-position: 0 -392px}
+a[href="/hero-clinkz"]:after {content: ""; background-position: 0 -420px}
+a[href="/hero-tinker"]:after {content: ""; background-position: 0 -448px}
+a[href="/hero-centaurwarrunner"]:after {content: ""; background-position: 0 -476px}
+a[href="/hero-eldertitan"]:after {content: ""; background-position: 0 -504px}
+a[href="/hero-chen"]:after {content: ""; background-position: 0 -532px}
+a[href="/hero-sandking"]:after {content: ""; background-position: 0 -560px}
+a[href="/hero-enigma"]:after {content: ""; background-position: 0 -588px}
+a[href="/hero-facelessvoid"]:after {content: ""; background-position: 0 -616px}
+a[href="/hero-dazzle"]:after {content: ""; background-position: 0 -644px}
+a[href="/hero-warlock"]:after {content: ""; background-position: 0 -672px}
+a[href="/hero-undying"]:after {content: ""; background-position: 0 -700px}
+a[href="/hero-shadowdemon"]:after {content: ""; background-position: 0 -728px}
+a[href="/hero-keeperofthelight"]:after {content: ""; background-position: 0 -756px}
+a[href="/hero-naturesprophet"]:after {content: ""; background-position: 0 -784px}
+a[href="/hero-bountyhunter"]:after {content: ""; background-position: 0 -812px}
+a[href="/hero-outworlddevourer"]:after {content: ""; background-position: 0 -840px}
+a[href="/hero-huskar"]:after {content: ""; background-position: 0 -868px}
+a[href="/hero-phoenix"]:after {content: ""; background-position: 0 -896px}
+a[href="/hero-pheonix"]:after {content: ""; background-position: 0 -896px}
+a[href="/hero-io"]:after {content: ""; background-position: 0 -924px}
+a[href="/hero-darkseer"]:after {content: ""; background-position: 0 -952px}
+a[href="/hero-trollwarlord"]:after {content: ""; background-position: 0 -980px}
+a[href="/hero-jakiro"]:after {content: ""; background-position: 0 -1008px}
+a[href="/hero-batrider"]:after {content: ""; background-position: 0 -1036px}
+a[href="/hero-invoker"]:after {content: ""; background-position: 0 -1064px}
+a[href="/hero-ancientapparition"]:after {content: ""; background-position: 0 -1092px}
+a[href="/hero-sniper"]:after {content: ""; background-position: 0 -1120px}
+a[href="/hero-lich"]:after {content: ""; background-position: 0 -1148px}
+a[href="/hero-wraithking"]:after {content: ""; background-position: 0 -1176px}
+a[href="/hero-dragonknight"]:after {content: ""; background-position: 0 -1204px}
+a[href="/hero-deathprophet"]:after {content: ""; background-position: 0 -1232px}
+a[href="/hero-kunkka"]:after {content: ""; background-position: 0 -1260px}
+a[href="/hero-templarassassin"]:after {content: ""; background-position: 0 -1288px}
+a[href="/hero-venomancer"]:after {content: ""; background-position: 0 -1316px}
+a[href="/hero-leshrac"]:after {content: ""; background-position: 0 -1344px}
+a[href="/hero-tidehunter"]:after {content: ""; background-position: 0 -1372px}
+a[href="/hero-lina"]:after {content: ""; background-position: 0 -1400px}
+a[href="/hero-lion"]:after {content: ""; background-position: 0 -1428px}
+a[href="/hero-doom"]:after {content: ""; background-position: 0 -1456px}
+a[href="/hero-luna"]:after {content: ""; background-position: 0 -1484px}
+a[href="/hero-antimage"]:after {content: ""; background-position: 0 -1512px}
+a[href="/hero-magnus"]:after {content: ""; background-position: 0 -1540px}
+a[href="/hero-brewmaster"]:after {content: ""; background-position: 0 -1568px}
+a[href="/hero-medusa"]:after {content: ""; background-position: 0 -1596px}
+a[href="/hero-meepo"]:after {content: ""; background-position: 0 -1624px}
+a[href="/hero-spectre"]:after {content: ""; background-position: 0 -1652px}
+a[href="/hero-mirana"]:after {content: ""; background-position: 0 -1680px}
+a[href="/hero-axe"]:after {content: ""; background-position: 0 -1708px}
+a[href="/hero-morphling"]:after {content: ""; background-position: 0 -1736px}
+a[href="/hero-phantomassassin"]:after {content: ""; background-position: 0 -1764px}
+a[href="/hero-lifestealer"]:after {content: ""; background-position: 0 -1792px}
+a[href="/hero-chaosknight"]:after {content: ""; background-position: 0 -1820px}
+a[href="/hero-shadowfiend"]:after {content: ""; background-position: 0 -1848px}
+a[href="/hero-silencer"]:after {content: ""; background-position: 0 -1876px}
+a[href="/hero-puck"]:after {content: ""; background-position: 0 -1904px}
+a[href="/hero-pudge"]:after {content: ""; background-position: 0 -1932px}
+a[href="/hero-pugna"]:after {content: ""; background-position: 0 -1960px}
+a[href="/hero-omniknight"]:after {content: ""; background-position: 0 -1988px}
+a[href="/hero-earthshaker"]:after {content: ""; background-position: 0 -2016px}
+a[href="/hero-stormspirit"]:after {content: ""; background-position: 0 -2044px}
+a[href="/hero-clockwerk"]:after {content: ""; background-position: 0 -2072px}
+a[href="/hero-razor"]:after {content: ""; background-position: 0 -2100px}
+a[href="/hero-alchemist"]:after {content: ""; background-position: 0 -2128px}
+a[href="/hero-beastmaster"]:after {content: ""; background-position: 0 -2156px}
+a[href="/hero-shadowshaman"]:after {content: ""; background-position: 0 -2184px}
+a[href="/hero-bristleback"]:after {content: ""; background-position: 0 -2212px}
+a[href="/hero-riki"]:after {content: ""; background-position: 0 -2240px}
+a[href="/hero-treantprotector"]:after {content: ""; background-position: 0 -2268px}
+a[href="/hero-necrophos"]:after {content: ""; background-position: 0 -2296px}
+a[href="/hero-rubick"]:after {content: ""; background-position: 0 -2324px}
+a[href="/hero-crystalmaiden"]:after {content: ""; background-position: 0 -2352px}
+a[href="/hero-vengefulspirit"]:after {content: ""; background-position: 0 -2380px}
+a[href="/hero-slardar"]:after {content: ""; background-position: 0 -2408px}
+a[href="/hero-slark"]:after {content: ""; background-position: 0 -2436px}
+a[href="/hero-nagasiren"]:after {content: ""; background-position: 0 -2464px}
+a[href="/hero-techies"]:after {content: ""; background-position: 0 -2492px}
+a[href="/hero-bloodseeker"]:after {content: ""; background-position: 0 -2520px}
+a[href="/hero-sven"]:after {content: ""; background-position: 0 -2548px}
+a[href="/hero-lonedruid"]:after {content: ""; background-position: 0 -2576px}
+a[href="/hero-terrorblade"]:after {content: ""; background-position: 0 -2604px}
+a[href="/hero-disruptor"]:after {content: ""; background-position: 0 -2632px}
+a[href="/hero-tiny"]:after {content: ""; background-position: 0 -2660px}
+a[href="/hero-drowranger"]:after {content: ""; background-position: 0 -2688px}
+a[href="/hero-ursa"]:after {content: ""; background-position: 0 -2716px}
+a[href="/hero-viper"]:after {content: ""; background-position: 0 -2744px}
+a[href="/hero-visage"]:after {content: ""; background-position: 0 -2772px}
+a[href="/hero-tusk"]:after {content: ""; background-position: 0 -2800px}
+a[href="/hero-witchdoctor"]:after {content: ""; background-position: 0 -2828px}
+a[href="/hero-juggernaut"]:after {content: ""; background-position: 0 -2856px}
+a[href="/hero-zeus"]:after {content: ""; background-position: 0 -2884px}
+a[href="/hero-oracle"]:after {content: ""; background-position: 0 -2912px;}
+a[href="/hero-earthspirit"]:after {content: ""; background-position: 0 -2940px;}
+a[href="/hero-winterwyvern"]:after {content: ""; background-position: 0 -2968px;}
+a[href="/hero-arcwarden"]:after {content: ""; background-position: 0 -2996px;}
+a[href="/hero-legioncommander"]:after {content: ""; background-position: 0 -3052px;}
+a[href="/hero-timbersaw"]:after {content: ""; background-position: 0 -3080px;}
+a[href="/hero-skywrathmage"]:after {content: ""; background-position: 0 -3108px;}
+a[href="/hero-emberspirit"]:after {content: ""; background-position: 0 -3136px;} 
+a[href="/hero-linaarcana"]:after {content: ""; background-position: 0 -3164px;} 
+a[href="/hero-legioncommanderarcana"]:after {content: ""; background-position: 0 -3192px;} 
+a[href="/hero-terrorbladearcana"]:after {content: ""; background-position: 0 -3220px;} 
+a[href="/hero-techiesarcana"]:after {content: ""; background-position: 0 -3248px;} 
+a[href="/hero-shadowfiendarcana"]:after {content: ""; background-position: 0 -3276px;} 
+a[href="/hero-phantomassassinarcana"]:after {content: ""; background-position: 0 -3304px;} 
+a[href="/hero-crystalmaidenarcana"]:after {content: ""; background-position: 0 -3332px;} 
+/** /r/DotA2 sub-reddit CSS by m4rx and ReaverXai **/
+/** TEMPORARY STUFF **/
+body.wiki-page-events-ti4 .wiki-page-content:before {
+background: url("%%TI4-image%%") transparent no-repeat;
+width: 955px;
+height: 393px;
+display: block;
+content: " ";
+}
+/* TI4 Qualifiers */
+a[href="http://www.dota2.com/international/?sidebar"]:after {
+ background:transparent url(%%logo-ti%%) no-repeat;
+  height: 25px;
+  width: 292px;
+  position: relative;
+  top: -2px;
+  left: -6px;
+  display: inline-block;
+  background-position: center center;
+  content: "";
+}
+.side .titlebox blockquote h6 {
+  font-size: 24px;
+  color: #C9C9C9;
+  position: absolute;
+  top: 62px;
+  left: 62px;
+  text-decoration: none;
+}
+
+.side .titlebox blockquote h6:after {
+  font-size: 12px;
+  color: #C9C9C9;
+  position: absolute;
+  top: 4px;
+  right: -29px;
+  content: "USD";
+}
+.side .titlebox blockquote a[href="http://www.dota2.com/international/compendium"]:after {
+    background:transparent url(%%compendium%%) no-repeat;
+height: 270px;
+width: 293px;
+top: -3px;
+left: -6px;
+position: relative;
+display: inline-block;
+background-position: top;
+content: " ";
+font-size: 18px;
+color: #fff;
+}
+
+.side .titlebox blockquote p:nth-child(2):hover a[href="http://www.dota2.com/international/compendium"]:after {
+background-position: bottom;
+}
+
+.side .titlebox blockquote:nth-child(2) {
+  width: 276px;
+  background-color: #100D06;
+  border: none;
+  color: #fff;
+  display: block;
+  padding: 2px 14px 2px 6px;
+  margin: 0 0 10px 0;
+  text-align: left;
+  border-top: 1px solid #A5A8A7;
+  border-left: 6px solid #3D3424;
+  position: relative;
+}
+.side .titlebox blockquote:nth-child(2) p:nth-child(n+3) a {
+color: #FFF;
+border-bottom: 1px dotted;
+}
+
+.side .titlebox blockquote:nth-child(2) p:nth-child(n+3){
+margin-left:20px;
+}
+
+a[href|="/logo-alliance"]:after, a[href|="/logo-malaysia"]:after, a[href|="/logo-flip"]:after, a[href|="/logo-c9"]:after, a[href|="/logo-invasion"]:after, a[href|="/logo-ep"]:after, a[href|="/logo-vgp"]:after, a[href|="/logo-dk"]:after, a[href|="/logo-csw"]:after, a[href|="/logo-root"]:after, a[href|="/logo-eg"]:after, a[href|="/logo-ehug"]:after, a[href|="/logo-empire"]:after, a[href|="/logo-execration"]:after, a[href|="/logo-firstdeparture"]:after, a[href|="/logo-fnatic"]:after, a[href|="/logo-hehe"]:after, a[href|="/logo-hgt"]:after, a[href|="/logo-ig"]:after, a[href|="/logo-isurus"]:after, a[href|="/logo-lgd"]:after, a[href|="/logo-liquid"]:after, a[href|="/logo-mineski"]:after, a[href|="/logo-sigt"]:after, a[href|="/logo-4a"]:after, a[href|="/logo-mvp"]:after, a[href|="/logo-mym"]:after, a[href|="/logo-navius"]:after, a[href|="/logo-navi"]:after, a[href|="/logo-newbee"]:after, a[href|="/logo-lc"]:after, a[href|="/logo-next"]:after, a[href|="/logo-wheel"]:after, a[href|="/logo-bu"]:after, a[href|="/logo-orange"]:after, a[href|="/logo-vega"]:after, a[href|="/logo-pr"]:after, a[href|="/logo-m5"]:after, a[href|="/logo-unknown"]:after, a[href|="/logo-rexregum"]:after, a[href|="/logo-rox"]:after, a[href|="/logo-lev"]:after, a[href|="/logo-nar"]:after, a[href|="/logo-speed"]:after, a[href|="/logo-titan"]:after, a[href|="/logo-tongfu"]:after, a[href|="/logo-balkanb"]:after, a[href|="/logo-union"]:after, a[href|="/logo-vg"]:after, a[href|="/logo-virtus"]:after, a[href|="/logo-zephyr"]:after, a[href|="/logo-ys"]:after, a[href|="/logo-mouz"]:after, a[href|="/logo-wings"]:after, a[href|="/logo-5eva"]:after, a[href|="/logo-rave"]:after, a[href|="/logo-secret"]:after, a[href|="/logo-voidboys"]:after, a[href|="/logo-tinker"]:after, a[href|="/logo-gguard"]:after, a[href|="/logo-tnc"]:after, a[href|="/logo-dota"]:after, a[href|="/logo-nottoday"]:after, a[href|="/logo-blank"]:after, a[href|="/logo-ehome"]:after, a[href|="/logo-cdec"]:after, a[href|="/logo-sumrift"]:after, a[href|="/logo-hr"]:after, a[href|="/logo-asus"]:after, a[href|="/logo-nip"]:after, a[href|="/logo-bg"]:after, a[href|="/logo-col"]:after {
+ background:transparent url(%%Team-Logo-9%%) no-repeat;
+ width: 60px;
+ height: 25px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ vertical-align: middle;
+ content: "";
+}
+a[href|="/logo-alliance"]:after { background-position: -2px -2px;}
+a[href|="/logo-malaysia"]:after { background-position: -66px -2px;}
+a[href|="/logo-flip"]:after { background-position: -130px -2px;}
+a[href|="/logo-c9"]:after { background-position: -194px -2px;}
+a[href|="/logo-invasion"]:after { background-position: -2px -31px;}
+a[href|="/logo-ep"]:after { background-position: -66px -31px;}
+a[href|="/logo-vgp"]:after { background-position: -130px -31px;}
+a[href|="/logo-dk"]:after { background-position: -194px -31px;}
+a[href|="/logo-csw"]:after { background-position: -2px -60px;}
+a[href|="/logo-root"]:after { background-position: -66px -60px;}
+a[href|="/logo-eg"]:after { background-position: -130px -60px;}
+a[href|="/logo-ehug"]:after { background-position: -194px -60px;}
+a[href|="/logo-empire"]:after { background-position: -2px -89px;}
+a[href|="/logo-execration"]:after { background-position: -66px -89px;}
+a[href|="/logo-firstdeparture"]:after { background-position: -130px -89px;}
+a[href|="/logo-fnatic"]:after { background-position: -194px -89px;}
+a[href|="/logo-hehe"]:after { background-position: -2px -118px;}
+a[href|="/logo-hgt"]:after { background-position: -66px -118px;}
+a[href|="/logo-ig"]:after { background-position: -130px -118px;}
+a[href|="/logo-isurus"]:after { background-position: -194px -118px;}
+a[href|="/logo-lgd"]:after { background-position: -2px -147px;}
+a[href|="/logo-liquid"]:after { background-position: -66px -147px;}
+a[href|="/logo-mineski"]:after { background-position: -130px -147px;}
+a[href|="/logo-sigt"]:after { background-position: -194px -147px;}
+a[href|="/logo-4a"]:after { background-position: -2px -176px;}
+a[href|="/logo-mvp"]:after { background-position: -66px -176px;}
+a[href|="/logo-mym"]:after { background-position: -130px -176px;}
+a[href|="/logo-navius"]:after { background-position: -194px -176px;}
+a[href|="/logo-navi"]:after { background-position: -2px -205px;}
+a[href|="/logo-newbee"]:after { background-position: -66px -205px;}
+a[href|="/logo-lc"]:after { background-position: -130px -205px;}
+a[href|="/logo-next"]:after { background-position: -194px -205px;}
+a[href|="/logo-wheel"]:after { background-position: -2px -234px;}
+a[href|="/logo-bu"]:after { background-position: -66px -234px;}
+a[href|="/logo-orange"]:after { background-position: -130px -234px;}
+a[href|="/logo-vega"]:after { background-position: -194px -234px;}
+a[href|="/logo-pr"]:after { background-position: -2px -263px;}
+a[href|="/logo-m5"]:after { background-position: -66px -263px;}
+a[href|="/logo-unknown"]:after { background-position: -130px -263px;}
+a[href|="/logo-rexregum"]:after { background-position: -194px -263px;}
+a[href|="/logo-rox"]:after { background-position: -258px -2px;}
+a[href|="/logo-lev"]:after { background-position: -258px -31px;}
+a[href|="/logo-nar"]:after { background-position: -258px -60px;}
+a[href|="/logo-speed"]:after { background-position: -258px -89px;}
+a[href|="/logo-titan"]:after { background-position: -258px -118px;}
+a[href|="/logo-tongfu"]:after { background-position: -258px -147px;}
+a[href|="/logo-balkanb"]:after { background-position: -258px -176px;}
+a[href|="/logo-union"]:after { background-position: -258px -205px;}
+a[href|="/logo-vg"]:after { background-position: -258px -234px;}
+a[href|="/logo-virtus"]:after { background-position: -258px -263px;}
+a[href|="/logo-zephyr"]:after { background-position: -2px -292px;}
+a[href|="/logo-ys"]:after { background-position: -66px -292px;}
+a[href|="/logo-mouz"]:after { background-position: -130px -292px;}
+a[href|="/logo-wings"]:after { background-position: -194px -292px;}
+a[href|="/logo-5eva"]:after { background-position: -258px -292px;}
+a[href|="/logo-rave"]:after { background-position: -2px -321px;}
+a[href|="/logo-bg"]:after { background-position: -66px -321px;}
+a[href|="/logo-secret"]:after { background-position: -130px -321px;}
+a[href|="/logo-voidboys"]:after { background-position: -194px -321px;}
+a[href|="/logo-tinker"]:after { background-position: -258px -321px;}
+a[href|="/logo-gguard"]:after { background-position: -2px -350px;}
+a[href|="/logo-tnc"]:after { background-position: -66px -350px;}
+a[href|="/logo-dota"]:after { background-position: -130px -350px;}
+a[href|="/logo-nottoday"]:after { background-position: -194px -350px;}
+a[href|="/logo-blank"]:after { background-position: -258px -350px;}
+a[href|="/logo-ehome"]:after { background-position: -2px -379px;}
+a[href|="/logo-cdec"]:after { background-position: -66px -379px;}
+a[href|="/logo-sumrift"]:after { background-position: -130px -379px;}
+a[href|="/logo-hr"]:after { background-position: -194px -379px;}
+a[href|="/logo-asus"]:after { background-position: -258px -379px;}
+a[href|="/logo-nip"]:after { background-position: -2px -408px;}
+a[href|="/logo-col"]:after { background-position: -66px -408px;}
+a[href|="/logo-blank"]:after { background-position: -66px -408px;}
+a[href|="/logo-blank"]:after { background-position: -130px -408px;}
+a[href|="/logo-blank"]:after { background-position: -194px -408px;}
+a[href|="/logo-blank"]:after { background-position: -258px -408px;}
+a[href$="spoiler"]:not(:hover):after { background: #54261e;}
+/** Trash talk thread in caps **/
+#siteTable_t3_2388pl {text-transform: UPPERCASE;}
+/** Title spoilers in top post **/
+.listing-page .id-t3_23e282 a.title:after {
+content: "Starladder WB semifinal match 2 game 2";
+display: inline-block;
+background-color: #FFF;
+margin-left: -315px;
+}
+.listing-page .id-t3_23gjzu a.title:after {
+content: "Zai gives his insight on the series against ___";
+display: inline-block;
+background-color: #FFF;
+margin-left: -365px;
+}
+/** HOVER TO DISPLAY FORMATTING **/
+.comment .md h4+h5+h6+p,
+.comment .md h4+h5+h6+p+p,
+.comment .md h4+h5+h6+p+p+p,
+.comment .md h4+h5+h6+p+p+p+table,
+.comment .md h4+h5+h6+p+p+p+table+p,
+.comment .md h4+h5+h6+p+p+p+table+p+table,
+.comment .md h4+h5+h6+p+p+p+table+p+table+hr,
+.comment .md h4+h5+h6+p+p+p+table+p+table+hr+p,
+.comment .md h4+h5+h6+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+table+p+table+hr+p,
+.comment .md h4+h5+h6+p+p+table+p+table+p+p+p+p,
+.comment .md h4+h5+h6+p+table+p+table+p+p+p+p+p,
+.comment .md h4+h5+h6+p+p+p+p+table,.comment .md h4+h5+h6+p+p+p+p+table+p,.comment .md h4+h5+h6+p+p+p+p+table+p+table {
+ display: none;
+}
+.comment .md:hover h4+h5+h6+p,
+.comment .md:hover h4+h5+h6+p+p,
+.comment .md:hover h4+h5+h6+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+table,
+.comment .md:hover h4+h5+h6+p+p+p+table+p,
+.comment .md:hover h4+h5+h6+p+p+p+table+p+table,
+.comment .md:hover h4+h5+h6+p+p+p+table+p+table+hr,
+.comment .md:hover h4+h5+h6+p+p+p+table+p+table+hr+p,
+.comment .md:hover h4+h5+h6+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+p+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+table+p+table+hr+p,
+.comment .md:hover h4+h5+h6+p+p+table+p+table+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+table+p+table+p+p+p+p+p,
+.comment .md:hover h4+h5+h6+p+p+p+p+table,.comment .md:hover h4+h5+h6+p+p+p+p+table+p,.comment .md:hover h4+h5+h6+p+p+p+p+table+p+table {
+ display: block;
+}
+.comment .md h4+h5+h6:after {
+ content: h4;
+}
+.comment .md:hover h4+h5+h6:after {
+content: ""
+}
+/** SPECIFIC ACCOUNTS HOVER TO DISPLAY **/
+/** Autowikibot hover to display **/
+.comment .md h5+h6+h4+p,.comment .md h5+h6+h4+p+hr,.comment .md h5+h6+h4+p+hr+blockquote,.comment .md h5+h6+h4+p+hr+blockquote+hr,.comment .md h5+h6+h4+p+hr+blockquote+hr+p,.comment .md h5+h6+h4+p+hr+blockquote+hr+p+p {
+ display: none;
+}
+.comment .md:hover h5+h6+h4+p,.comment .md:hover h5+h6+h4+p+hr,.comment .md:hover h5+h6+h4+p+hr+blockquote,.comment .md:hover h5+h6+h4+p+hr+blockquote+hr,.comment .md:hover h5+h6+h4+p+hr+blockquote+hr+p,.comment .md:hover h5+h6+h4+p+hr+blockquote+hr+p+p {
+ display: block;
+}
+.comment .md h5+h6+h4:after {
+ content: "Autowikibot post. Hover to view";
+}
+.comment .md:hover h5+h6+h4:after {
+content: ""
+}
+li#tab-templates, li#tab-link_templates {
+z-index: 2;
+position: relative;
+}
+/** TimezoneSimplifier hover to display **/
+/* TimezoneSimplifier hover to display by /u/Dropping_fruits (for autowikibot) modified by /u/nijin22 */
+/* Changes to original: TimezoneSimplifier uses h5+h4+h6 instead of h5+h6+h4*/
+.comment .md h5+h4+h6+p,.comment .md h5+h4+h6+p+p, .comment .md h5+h4+h6+p+p+table, .comment .md h5+h4+h6+p+p+table+hr, .comment .md h5+h4+h6+p+p+table+hr+p, .comment .md h5+h4+h6+p+p+table+hr+p+p, .comment .md h5+h4+h6+p+p+table+hr+p+p+p {
+ display: none;
+}
+.comment .md:hover h5+h4+h6+p,.comment .md:hover h5+h4+h6+p+p, .comment .md:hover h5+h4+h6+p+p+table, .comment .md:hover h5+h4+h6+p+p+table+hr, .comment .md:hover h5+h4+h6+p+p+table+hr+p, .comment .md:hover h5+h4+h6+p+p+table+hr+p+p, .comment .md:hover h5+h4+h6+p+p+table+hr+p+p+p {
+ display: block;
+}
+.comment .md h5+h4+h6:after {
+ content: "TimezoneSimplifier post. Hover to view";
+}
+.comment .md:hover h5+h4+h6:after {
+ content: ""
+}
+/** Matchdetailsbot hover to display **/
+.comment .md h4+h6+h4+p,.comment .md h4+h6+h4+p+p,.comment .md h4+h6+h4+p+p+p,.comment .md h4+h6+h4+p+p+p+p,.comment .md h4+h6+h4+p+p+p+p+table,.comment .md h4+h6+h4+p+p+p+p+table+p,.comment .md h4+h6+h4+p+p+p+p+table+p+table {
+ display: none;
+}
+.comment .md:hover h4+h6+h4+p,.comment .md:hover h4+h6+h4+p+p,.comment .md:hover h4+h6+h4+p+p+p,.comment .md:hover h4+h6+h4+p+p+p+p,.comment .md:hover h4+h6+h4+p+p+p+p+table,.comment .md:hover h4+h6+h4+p+p+p+p+table+p,.comment .md:hover h4+h6+h4+p+p+p+p+table+p+table {
+ display: block;
+}
+.comment .md h4+h6+h4:after {
+ content: "Match details post. Hover to view";
+}
+.comment .md:hover h4+h6+h4:after {
+content: ""
+}
+/** Match summary hover to display for /u/HighOrRide **/
+.comment .md h4+h6+h5+p,
+.comment .md h4+h6+h5+p+p,
+.comment .md h4+h6+h5+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p+p+p+p+p,
+.comment .md h4+h6+h5+p+p+p+p+table,.comment .md h4+h6+h5+p+p+p+p+table+p,.comment .md h4+h6+h5+p+p+p+p+table+p+table {
+ display: none;
+}
+.comment .md:hover h4+h6+h5+p,
+.comment .md:hover h4+h6+h5+p+p,
+.comment .md:hover h4+h6+h5+p+p+p,
+.comment .md:hover h4+h6+h5+p+p+p+p,
+.comment .md:hover h4+h6+h5+p+p+p+p+p,
+.comment .md:hover h4+h6+h5+p+p+p+p+p+p,
+.comment .md:hover h4+h6+h5+p+p+p+p+p+p+p,
+.comment .md:hover h4+h6+h5+p+p+p+p+table,.comment .md:hover h4+h6+h5+p+p+p+p+table+p,.comment .md:hover h4+h6+h5+p+p+p+p+table+p+table {
+ display: block;
+}
+.comment .md h4+h6+h5:after {
+ content: "Hover to view match commentary";
+}
+.comment .md:hover h4+h6+h5:after {
+content: ""
+}
+/** Wyk's Wishes **/
+.content[role="main"] { padding: 0px 15px 0px 15px; margin: 0px 325px 15px 0 !important;}
+#siteTable .midcol { margin: 6px;}
+.linklisting {padding: 5px 0 3px 0px;}
+#siteTable .even { border-top: 1px solid #F2F2F2; background: #FDFDFD; border-bottom: 1px solid #F2F2F2; padding-top: 3px;}
+#siteTable .link { margin: 5px 0;}
+.content h1 { padding: 0 15px 15px 15px;}
+#siteTable .link .rank { margin-top: 20px;}
+.commentarea { margin-top: 25px; border: 1px #CCC solid; box-shadow: 3px 3px 10px -3px #AAA}
+.commentarea .sitetable .comment { margin: 15px 10px!important}
+#siteTable_organic { margin-top: 13px}
+.content { padding: 0px 15px 0px 15px; margin: 0;}
+#siteTable .midcol { margin: 6px;}
+#siteTable .even { border-top: 1px solid #F2F2F2; border-bottom: 1px solid #F2F2F2; padding-top: 3px;}
+#siteTable .link { margin: 5px 0;}
+.content h1 { padding: 0 15px 15px 15px;}
+.post-linkflair-flufftt .content .usertext-body{text-transform:uppercase}
+/* RES Nightmode Fixes */
+.res-nightmode .tabmenu li a { background: none!important;}
+.res-nightmode .side .titlebox blockquote { background: none}
+.res-nightmode #siteTable { border: 1px #333 solid; box-shadow: 2px 3px 6px -3px #111; padding: 5px 0 3px 0px;}
+.res-nightmode .commentarea { border: 1px #333 solid; box-shadow: 3px 3px 10px -3px #111}
+.res-nightmode #siteTable .even { border-top: 1px solid #333; background: #111; border-bottom: 1px solid #333; padding-top: 3px;}
+.res-nightmode #header-bottom-left {
+ height: 130px!important;
+ padding: 0px 0 0!important;
+ background-image: url(%%mayish-2015%%)!important;
+ background-repeat: no-repeat!important;
+ background-color: #102a2b!important;
+ font-size: xx-small!important;
+ box-shadow: 0px 0px 6px #555!important;
+}
+.sidebox .submit-link {
+ display:block;
+ font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
+ font-weight: 300;
+ background: url(%%side-gradientu%%) #431e18;
+ color:#f2f2f2;
+ display: inline-block;
+ font-size: 1.4em;
+ border-left:6px solid #54261e;
+ border-top:none;
+ font-size:15px;
+ padding:5px 12px 5px 8px;
+}
+/* SPOILER FIX */
+.listing-page .id-t3_38qlkm a.title:after {
+content: " _____";
+display: inline-block;
+background-color: #FFF;
+margin-left: -42px;
+}
+/* SPEAKER ICON FOR LINKS WITH SOUND */
+.comment a[href$=".mp3"] {
+background-image: url(%%speaker%%);
+background-repeat: no-repeat;
+padding-left: 22px;
+padding-bottom: 5px;
+}
+/* Users online text */
+.subscribers .number:after {
+ content: " patiently waiting on immortals"
+}
+.users-online .number:before {
+ content: ""
+}
+.users-online .number:after {
+ content: " MMR (solo rating)"
+}
+/* SUBMIT LINK OR POST */
+.morelink {
+ height: 28px;
+ background-color: #54261e;
+ background-image: none!important;
+ border: none;
+ border-top: 2px solid #68362e;
+ border-bottom: 3px solid #68362e;
+ border-radius: 0px;
+ -webkit-box-shadow: 0 1px 2px #CECECE;
+ box-shadow: 0 1px 2px #CECECE;
+}
+.morelink:hover {
+ background-color: #54261e;
+ border-top: 2px solid #763e35;
+ border-bottom: 3px solid #763e35;
+}
+.morelink:active {
+ background-color: #763e35;
+ border-top: 2px solid #763e35;
+ border-bottom: 3px solid #763e35;
+ -webkit-box-shadow: none;
+ box-shadow: none;
+}
+.morelink a {
+ color: #fff !important;
+ text-shadow: 0px 1px 0px #5f1e7d;
+ letter-spacing: 0px;
+ font-weight: bold;
+ font-size: 15px;
+ font-family: arial, sans-serif;
+ line-height: 30px;
+}
+.morelink a:hover {text-decoration: none;}
+.account-activity-box, .sidebox.create, .morelink .nub {display: none;}
+/* User Flair */
+.flair {
+ visibility: visible;
+ text-indent: -9999px;
+ background: url(%%user-secret%%) no-repeat scroll -9999px -9999px transparent;
+ height: 28px;
+ vertical-align: middle;
+ width: 46px;
+ border: 0px
+}
+.side .sidecontentbox .flair:hover {
+ visibility: visible !important;
+ text-indent: -9999px !important;
+ background: url(%%icon-face%%) no-repeat scroll -9999px -9999px transparent !important;
+ height: 28px !important;
+ vertical-align: middle !important;
+ width: 46px !important;
+ border: 0px !important;
+}
+#header-bottom-left {
+ height: 130px;
+ padding: 0px 0 0;
+ background-image: url(%%mayish-2015%%);
+ background-repeat: no-repeat;
+ background-color: #0E2324;
+ font-size: xx-small;
+ box-shadow: 0px 0px 6px #555;
+}
+.res-nightmode .side .usertext-body ul li {
+ background: none !important;
+}
+ul.tabmenu li.selected a, .res-nightmode .redditname a.active {
+ background: none !important;
+}
+/* Link flair */
+.linkflairlabel {
+ max-width: 20em !important;
+ overflow: visible;
+}
+/* ANNOUNCEMENTS */
+.titlebox .usertext-body .md h5, .titlebox .usertext-body .md h4 {
+ border-radius: 3px;
+ position: absolute;
+ background-color: white;
+/* filter:alpha(opacity=70); */
+ -moz-opacity:.70;opacity:.70;
+ border: 0px solid #000;
+ display: block;
+ line-height: 20px;
+ padding: 4px;
+ font-size: 100%;
+ font-weight: normal;
+ z-index: 9001;
+ box-shadow: 0px 0px 10px #111111;
+ color: black;
+}
+.md h4 a {
+ color: black;
+}
+.md h5 a {
+ color: black;
+}
+.md h4 a:hover {
+ color: Purple;
+}
+.md h5 a:hover {
+ color: Purple;
+}
+.self .md table {margin: 10px auto;}
+.self .md th { font-weight: bold; background-color: #54261e; color: white; text-align: center;}
+.self .md td, .self .md th { border: 1px solid #CCC; padding: 1px 3px;}
+.wiki table {margin: 10px auto;}
+.wiki th {font-weight: bold; background-color: #54261e; color: white; text-align:center;}
+.wiki td, .wiki th {border: 1px solid #CCC; padding: 1px 3px;}
+td>em {
+ background-color: #F6E8FA;
+}
+.md td em {
+ font-style: normal;
+}
+.titlebox .usertext-body .md h5 {
+ top: 30px !important;
+ left: 350px
+}
+.titlebox .usertext-body .md h4 {
+ top: 80px !important;
+ left: 350px
+}
+.titlebox form {
+ position: static
+}
+.titlebox .usertext-body .md h4:before {
+ content: "[ANNOUNCEMENT]";
+ color: red;
+ border-right: 1px solid #FFF;
+ padding-right: 0px;
+ margin-right: 5px;
+}
+.titlebox .usertext-body .md h5:before {
+ content: "[ANNOUNCEMENT]";
+ color: red;
+ border-right: 1px solid #FFF;
+ padding-right: 0px;
+ margin-right: 5px;
+}
+/* entire page */
+body {
+ font:x-small verdana,arial,helvetica,sans-serif;
+}
+/*HEADER*/
+#header {
+ z-index: 1;
+}
+#header-img {
+ margin-top: 25px;
+ margin-left: 25px;
+}
+#header-bottom-right {
+ background: url(%%top-gradient%%);
+ color: #abc1bd;
+}
+#header-bottom-right a {
+ color: #E6E6E6;
+}
+#header-bottom-right a:hover {
+ color: #e6e6e6;
+}
+.user {
+ color: #e6e6e6;
+}
+#userbarToggle {
+ background: url(%%top-gradient%%);
+ color: #e6e6e6;
+ border-right: none;
+}
+#header {
+ border-bottom: 0;
+ font-size: x-small;
+ padding: 0
+}
+.pagename a {
+ display: block;
+ background-image: url(%%title-new%%);
+ background-repeat: no-repeat;
+ margin: 0 auto;
+ font-size: 0px;
+ padding: 35px 0 0 0;
+ color: #364657;
+ left: 100px;
+ position: absolute;
+ top: 60px;
+ width: 200px;
+}
+/*CONTENT
+.content {
+ margin: 50px 5px 0px 5px
+}
+div.content {
+ margin-right: 30px;
+ padding-left: 10px
+}
+*/
+#sr-more-link {
+ display: none
+}
+/*SEARCH (from r/baconreader)*/
+#search input[type="text"] {
+ width: 215px;
+}
+.side form#search {
+ position: relative;
+ top: -70px;
+ left: 50px;
+ width: 225px;
+ z-index: 2;
+}
+.side form#search input[name="q"] {
+ border: 1px solid #54261e;
+ border-radius: 4px;
+ -moz-border-radius: 4px;
+ -webkit-border-radius: 4px;
+ background-image: url(%%top-gradient%%);
+ background-repeat: repeat-x;
+ color: #abc1bd;
+ font-size: 12px;
+ padding: 5px
+}
+.side > div:first-child {
+ height: 5px;
+}
+.side .spacer {
+ margin: 0;
+}
+a {
+ background: none;
+}
+ul.tabmenu {
+ background-image: url(%%top-gradient%%);
+ position: absolute;
+ font-size: 10px;
+ top: 118px;
+ left: 15px;
+ border-top-left-radius: 7px;
+ border-top-right-radius: 7px;
+ color: #abc1bd;
+ z-index: 5;
+}
+ul.tabmenu li {
+ padding: 0px;
+ display: block;
+ float: left;
+ margin: 0;
+}
+ul.tabmenu li:hover {
+ padding: 0px;
+ display: block;
+ float: left
+}
+ul.tabmenu:after {
+ clear: both
+}
+ul.tabmenu li a, ul.tabmenu li.selected a {
+ text-align: center;
+ background-color: transparent;
+ display: block;
+ border: 0;
+ color: #AAA;
+ font-weight: normal;
+ height: 24px;
+ font-size: 12px;
+ position: relative;
+ top: 4px;
+}
+ul.tabmenu li.selected a {
+ color: #FFF;
+ font-weight: bold
+}
+ul.tabmenu a:hover {
+ color: #e6e6e6;
+}
+/*SUBMIT+MOD PAGE*/
+.delete-field {
+ background-color: transparent
+}
+.tabmenu.formtab .selected a {
+ color: #e6e6e6;
+ font-size: 100%;
+ background-color: transparent
+}
+.tabmenu.formtab a {
+ border: none
+}
+.roundfield {
+ background-color: #DDD
+}
+.formtabs-content {
+ border-top: 4px solid #324A74;
+ margin-top: -25px
+}
+#t5_2s580 .pretty-form:before {
+ color: red;
+ font-weight:bold;
+ content: "You cannot edit the sidebar from here, use www.reddit.com/r/DotA2/wiki/sidebar instead"
+}
+/* Sidebar */
+/* hide 'subscribers' */
+.titlebox .word {
+ display: none
+}
+/* hide junk under submit */
+.sidebox.submit .spacer, .sidebox.create {
+display: none;
+}
+.morelink {
+margin-bottom: 6px;
+}
+/* Change Subreddit Name */
+.side .redditname:before {
+content: "/r/Dota2";
+}
+#header-bottom-left .redditname {
+font-size: 0.01px
+}
+.titlebox h1 a {
+font-size: 0.000001em
+}
+/* helptext */
+.side blockquote a[href$="#ex"]:hover {
+cursor: help;
+}
+.side blockquote a[href$="#ex"] {
+color: inherit;
+border-bottom: 1px dotted;
+}
+.titlebox h1 a:hover, a:active {
+color: #CC0033;
+}
+a:hover, a:active {
+ color: #CC0033;
+}
+.content {
+ font-size: 9px;
+}
+.tagline {
+ color:#888888;
+ font-size:12px;
+}
+/* Upcoming Matches */
+html[lang="qq"] .side .titlebox ul li, html[lang="ne"] .side .titlebox ul li {
+display: none;
+}
+/* .side .titlebox ul li a:nth-child(1):hover {
+height: 55px !important;
+overflow: auto !important;
+width: 270px !important;
+white-space: pre-wrap !important;
+} */
+.side .usertext-body ul li {
+ width:276px;
+ background-color: #dfe2e1;
+ border:none;
+ color: black;
+ display:block;
+ padding:2px 7px 2px 13px;
+ margin: 0 0 -1px 0;
+ text-align: left;
+ border-top: 1px solid #a5a8a7;
+ border-left: 6px solid #A9ADAB;
+}
+.res-nightmode .side .usertext-body ul li:nth-child(1) {
+color: black !important;
+}
+.res-nightmode .side .titlebox blockquote {
+color: black !important;
+}
+.res-nightmode .side .md p {
+color: #000 !important;
+}
+.side .usertext-body ul {
+margin: 0px 1px 10px 0px;
+}
+.side .usertext-body ul li:hover {
+background-color:#8bac9b;
+}
+html[lang="qq"] .side .titlebox ul li:nth-child(1), html[lang="ne"] .side .titlebox ul li:nth-child(1) {
+display:block;
+}
+.side .usertext-body ul li:nth-child(1) {
+display:block;
+ font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
+ font-weight: 300;
+ background: url(%%side-gradientu%%) #431e18;
+ color:#f2f2f2;
+ display: inline-block;
+ font-size: 1.4em;
+ border-left:6px solid #54261e;
+ border-top:none;
+ font-size:15px;
+ padding:5px 12px 5px 8px;
+}
+html[lang="qq"] .side .usertext-body ul li:nth-child(1):after, html[lang="ne"] .side .usertext-body ul li:nth-child(1):after {
+font-size: smaller;
+color: #E34234;
+font-weight: bold;
+ content: "+Expand";
+float: right;
+margin-top: -21px;
+}
+.side .titlebox li:hover {
+ display: block;
+}
+html[lang="qq"] .side .titlebox ul:hover > li, html[lang="ne"] .side .titlebox ul:hover > li {
+ display:block;
+}
+.side .usertext-body ul li a:hover {
+ color: black;
+}
+.side .usertext-body em {
+ font-style: normal !important;
+ font-size: 0.8em;
+}
+/* Blockquotes */
+.side .titlebox blockquote blockquote{
+display:block;
+ font-family: "HelveticaNeue-Light", "Helvetica Neue Light","Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+ font-weight: 300;
+ background: url(%%side-gradientu%%) #431e18;
+  color: #f2f2f2;
+  display: inline-block;
+  font-size: 1.4em;
+  border-left: 6px solid #54261e;
+  border-top: none;
+  font-size: 15px;
+  padding: 5px 12px 5px 8px;
+  margin: -3px 0px -2px -12px;
+}
+.side .titlebox blockquote blockquote a {
+  color: #f2f2f2;
+  font-weight: bold;
+  display: block;
+  height: 29px;
+  width: 285px;
+  margin-top: -4px;
+  padding-top: 8px;
+  margin-bottom: -5px;
+  margin-left: -8px;
+  padding-left: 7px;
+  text-align: center;
+}
+.side .titlebox blockquote blockquote a:hover {
+ background: url(%%side-gradientd%%) #4e231d;
+}
+.side .titlebox blockquote h3{
+ border-left: 6px solid #A9ADAB;
+ padding-left: 4px;
+font-weight: normal;
+}
+.side .titlebox blockquote {
+width: 276px;
+background-color: #dfe2e1;
+border: none;
+color: black;
+display: block;
+padding: 2px 14px 2px 6px;
+margin: 0 0 10px 0;
+text-align: left;
+border-top: 1px solid #a5a8a7;
+ border-left: 6px solid #A9ADAB;
+}
+.side table {
+width: 100%;
+border-color: #CCC;
+}
+.side th {
+border-color: transparent;
+border-bottom-color: #CCC;
+border-style: dotted;
+}
+.side td {
+width: 50%;
+border-color: #CCC;
+border-style: dotted;
+}
+/* Make link fill full li */
+.side .titlebox ul li:nth-child(1) a:nth-child(1), .side .titlebox ul li:nth-child(2) a:nth-child(1), .side .titlebox ul li:nth-child(3) a:nth-child(1), .side .titlebox ul li:nth-child(4) a:nth-child(1), .side .titlebox ul li:nth-child(5) a:nth-child(1), .side .titlebox ul li:nth-child(6) a:nth-child(1), .side .titlebox ul li:nth-child(7) a:nth-child(1) {
+display: block;
+height: 50px;
+width: 275px;
+position: relative;
+top: -7px;
+left: -14px;
+padding: 6px 0px 0px 13px;
+margin: 0px 2px -41px 0px;
+white-space: nowrap;
+overflow: hidden;
+}
+/* Create Break from strikethrough */
+.side .titlebox del {
+ font-size: 0px;
+ margin-top: -7px;
+ display: block;
+ height: 4px;
+}
+.side .titlebox blockquote p {
+line-height: 18px;
+}
+.md blockquote, .help blockquote {
+ margin-right: 0px;
+ margin-left: 0px;
+}
+.md {
+overflow: visible;
+}
+/* Restyle HR */
+.side .titlebox blockquote hr {
+ color: #fff;
+ margin: 0px !important;
+ border: 1px solid #CCCCCC !important;
+ width: 100% !important;
+}
+/* Spoiler */
+a[href$="/spoiler"] {
+ background: #54261e !important;
+ color: #54261e !important;
+}
+a[href$="/spoiler"]:hover {
+ color: #54261e !important;
+ background: transparent !important;
+}
+/* Spoiler tags */
+a[href|="#s"] {
+ display: inline-block;
+ background: #54261e !important;
+ color: white !important;
+ cursor: default;
+ padding: 1px 2px;
+}
+a[href|="#s"]::after {
+ content: attr(title);
+ display: inline-block;
+ background: #54261e !important;
+ color: #54261e !important;
+ visibility: visible;
+ padding: 0px 8px;
+}
+a[href|="#s"]:hover {
+ color: #B8BBFF !important;
+ cursor: default;
+}
+a[href|="#s"]:hover::after,
+a[href|="#s"]:active::after {
+ color: white !important;
+}
+a[href="#s-100"]::after {
+ min-width: 100px;
+}
+a[href="#s-150"]::after {
+ min-width: 150px;
+}
+a[href="#s-200"]::after {
+ min-width: 200px;
+}
+a[href="#s-250"]::after {
+ min-width: 250px;
+}
+/* RES/Gold Fixes */
+.keyHighlight {
+ outline: 1px dashed #BBB !important;
+ background-color: #F8F8F8 !important;
+}
+.link.last-clicked {
+ border: none
+}
+/* Make stylesheet easier of the eyes */
+#stylesheet_contents,#default_stylesheet {
+ font-family: Inconsolata, Courier, "Courier New", monospace;
+ background-color:black;
+ color:#c6c6c6;
+ font-size:13px;
+ height:600px;
+z-index: 9000;
+}
+/* Submit Message */
+#link-desc::after, #text-desc::after {
+display: block;
+margin-top: 1em;
+font-weight: bold;
+content: "Please don't include tags in your submission title, but rather tag submissions using the 'flair' menu under it's title after posting. Read our submission rules in the sidebar before submitting a post.";
+}
+/* Downvote Message */
+.commentarea .arrow.down:hover::after {
+position: absolute;
+display: block;
+z-index: 1000;
+padding: 5px;
+background-color: #FEF0F0;
+border: 1px solid #FF9185;
+content: "Doesn't contribute to discussion.";
+text-align: center;
+font-size: 10px;
+font-weight: normal;
+margin-left: 25px;
+margin-top: 5px
+}
+/* Report button message */
+.report-button:hover:before {
+ position: absolute;
+ display: block;
+ z-index: 1000;
+ padding: 5px;
+ border: 1px solid #333;
+ background-color: #FFF;
+ content: "Please only report posts that actually violate the subreddit's rules.";
+ text-align: center;
+ font-size: 10px;
+ font-weight: normal;
+ margin-left: 5px;
+ margin-top: 25px
+}
+/* Filter Modes */
+html[lang="ot"] .thing.link {
+ display: none
+}
+html[lang="ot"] .thing.self {
+ display: block
+}
+html[lang="ot"] .linklisting .odd {
+ background: none
+}
+html[lang="nf"] .linkflair-fluff { display: none}
+html[lang="st"] .linkflair-screen { display: none} html[lang="st"] .linkflair-shout { display: none} html[lang="st"] .linkflair-fluff { display: none} html[lang="st"] .linkflair-stream { display: none} html[lang="st"] .linkflair-suggest { display: none} html[lang="st"] .linkflair-interview { display: none} html[lang="st"] .linkflair-remind { display: none} html[lang="st"] .linkflair-match { display: none} html[lang="st"] .linkflair-art { display: none} html[lang="st"] .linkflair-video { display: none} html[lang="st"] .linkflair-news { display: none} html[lang="st"] .linkflair-request { display: none} html[lang="st"] .linkflair-complaint { display: none} html[lang="st"] .linkflair-workshop { display: none} html[lang="st"] .linkflair-personal { display: none} html[lang="st"] .linkflair-tip { display: none} html[lang="st"] .linkflair-bug { display: none} html[lang="st"] .linkflair-comedy { display: none} html[lang="st"] .linkflair-announce { display: none} html[lang="st"] .linkflair-offer { display: none} html[lang="st"] .linkflair-other { display: none} html[lang="st"] .linkflair-tool { display: none} html[lang="st"] .linkflair-preview { display: none}
+html[lang="nr"] .linkflair-remind { display: none}
+html[lang="fp"] .linkflair-fluff { display: none} html[lang="fp"] .linkflair-comedy { display: none} html[lang="fp"] .linkflair-art { display: none} html[lang="fp"] .linkflair-shoutout { display: none}
+html[lang="hp"] .linkflair-screen { display: none} html[lang="hp"] .linkflair-shout { display: none} html[lang="hp"] .linkflair-fluff { display: none} html[lang="hp"] .linkflair-stream { display: none} html[lang="hp"] .linkflair-suggest { display: none} html[lang="hp"] .linkflair-interview { display: none} html[lang="hp"] .linkflair-remind { display: none} html[lang="hp"] .linkflair-match { display: none} html[lang="hp"] .linkflair-discuss { display: none} html[lang="hp"] .linkflair-art { display: none} html[lang="hp"] .linkflair-video { display: none} html[lang="hp"] .linkflair-news { display: none} html[lang="hp"] .linkflair-guide { display: none} html[lang="hp"] .linkflair-complaint { display: none} html[lang="hp"] .linkflair-workshop { display: none} html[lang="hp"] .linkflair-personal { display: none} html[lang="hp"] .linkflair-tip { display: none} html[lang="hp"] .linkflair-bug { display: none} html[lang="hp"] .linkflair-comedy { display: none} html[lang="hp"] .linkflair-announce { display: none} html[lang="hp"] .linkflair-offer { display: none} html[lang="hp"] .linkflair-article { display: none} html[lang="hp"] .linkflair-other { display: none} html[lang="hp"] .linkflair-tool { display: none} html[lang="hp"] .linkflair-preview { display: none}
+html[lang="fl"] .linkflair-screen { display: none} html[lang="fl"] .linkflair-stream { display: none} html[lang="fl"] .linkflair-suggest { display: none} html[lang="fl"] .linkflair-interview { display: none} html[lang="fl"] .linkflair-remind { display: none} html[lang="fl"] .linkflair-match { display: none} html[lang="fl"] .linkflair-discuss { display: none} html[lang="fl"] .linkflair-video { display: none} html[lang="fl"] .linkflair-news { display: none} html[lang="fl"] .linkflair-request { display: none} html[lang="fl"] .linkflair-guide { display: none} html[lang="fl"] .linkflair-complaint { display: none} html[lang="fl"] .linkflair-workshop { display: none} html[lang="fl"] .linkflair-personal { display: none} html[lang="fl"] .linkflair-tip { display: none} html[lang="fl"] .linkflair-bug { display: none} html[lang="fl"] .linkflair-announce { display: none} html[lang="fl"] .linkflair-offer { display: none} html[lang="fl"] .linkflair-article { display: none} html[lang="fl"] .linkflair-other { display: none} html[lang="fl"] .linkflair-question { display: none} html[lang="fl"] .linkflair-tool { display: none} html[lang="fl"] .linkflair-preview { display: none}
+html[lang="ni"] .linkflair-question { display: none} html[lang="ni"] .linkflair-request { display: none} html[lang="ni"] .linkflair-offer { display: none} html[lang="ni"] .linkflair-complaint { display: none} html[lang="ni"] .linkflair-shoutout { display: none} html[lang="ni"] .linkflair-personal { display: none}
+html[lang="ne"] .linkflair-esports { display: none}
+html[lang="na"] .linkflair-art { display: none}
+html:lang(oe) .link:not(.linkflair-esports) { display: none}
+html:lang(aw) .link:not(.linkflair-art) { display: none}
+/* Flair Code Begins */
+.flair:hover {
+ visibility: visible;
+ text-indent: 0 !important;
+ width: auto !important;
+ height: auto !important;
+ cursor: default;
+ padding: 0 3px;
+ color: #000;
+ background: #f5f5f5;
+ border: 1px solid #ddd;
+ border-radius: 2px;
+ margin: 0 3px 0 0;
+ line-height: 2em;
+}
+.comment .flair:hover {
+ min-width: 44px;
+ min-height: 26px;
+ margin-right: 1px;
+}
+.linklisting .flair:hover, .side .flair:hover {
+ min-width: 42px;
+ min-height: 25px;
+}
+.author .flair {
+display:none !important;
+}
+.flair-akasha {content: ""; background-position: 0 0px}
+.flair-abaddon {content: ""; background-position: 0 -28px}
+.flair-aggron {content: ""; background-position: 0 -56px}
+.flair-aiushtha {content: ""; background-position: 0 -84px}
+.flair-alleria {content: ""; background-position: 0 -112px}
+.flair-anubarak {content: ""; background-position: 0 -140px}
+.flair-anubseran {content: ""; background-position: 0 -168px}
+.flair-atropos {content: ""; background-position: 0 -196px}
+.flair-aurel {content: ""; background-position: 0 -224px}
+.flair-azgalor {content: ""; background-position: 0 -252px}
+.flair-azwraith {content: ""; background-position: 0 -280px}
+.flair-balanar {content: ""; background-position: 0 -308px}
+.flair-banehallow {content: ""; background-position: 0 -336px}
+.flair-barathrum {content: ""; background-position: 0 -364px}
+.flair-black {content: ""; background-position: 0 -392px}
+.flair-bone {content: ""; background-position: 0 -420px}
+.flair-boush {content: ""; background-position: 0 -448px}
+.flair-bradwarden {content: ""; background-position: 0 -476px}
+.flair-cairne {content: ""; background-position: 0 -504px}
+.flair-chen {content: ""; background-position: 0 -532px}
+.flair-crixalis {content: ""; background-position: 0 -560px}
+.flair-darchrow {content: ""; background-position: 0 -588px}
+.flair-dark {content: ""; background-position: 0 -616px}
+.flair-dazzle {content: ""; background-position: 0 -644px}
+.flair-demnok {content: ""; background-position: 0 -672px}
+.flair-dirge {content: ""; background-position: 0 -700px}
+.flair-eredar {content: ""; background-position: 0 -728px}
+.flair-ezalor {content: ""; background-position: 0 -756px}
+.flair-furion {content: ""; background-position: 0 -784px}
+.flair-gondar {content: ""; background-position: 0 -812px}
+.flair-harbinger {content: ""; background-position: 0 -840px}
+.flair-huskar {content: ""; background-position: 0 -868px}
+.flair-icarus {content: ""; background-position: 0 -896px}
+.flair-io {content: ""; background-position: 0 -924px}
+.flair-ishkafel {content: ""; background-position: 0 -952px}
+.flair-jahrakal {content: ""; background-position: 0 -980px}
+.flair-jakiro {content: ""; background-position: 0 -1008px}
+.flair-jinzakk {content: ""; background-position: 0 -1036px}
+.flair-kael {content: ""; background-position: 0 -1064px}
+.flair-kaldr {content: ""; background-position: 0 -1092px}
+.flair-kardel {content: ""; background-position: 0 -1120px}
+.flair-kelthuzad {content: ""; background-position: 0 -1148px}
+.flair-king {content: ""; background-position: 0 -1176px}
+.flair-knight {content: ""; background-position: 0 -1204px}
+.flair-krobelus {content: ""; background-position: 0 -1232px}
+.flair-kunkka {content: ""; background-position: 0 -1260px}
+.flair-lanaya {content: ""; background-position: 0 -1288px}
+.flair-lesale {content: ""; background-position: 0 -1316px}
+.flair-leshrac {content: ""; background-position: 0 -1344px}
+.flair-leviathan {content: ""; background-position: 0 -1372px}
+.flair-lina {content: ""; background-position: 0 -1400px}
+.flair-lion {content: ""; background-position: 0 -1428px}
+.flair-lucifer {content: ""; background-position: 0 -1456px}
+.flair-luna {content: ""; background-position: 0 -1484px}
+.flair-magina {content: ""; background-position: 0 -1512px}
+.flair-magnus {content: ""; background-position: 0 -1540px}
+.flair-mangix {content: ""; background-position: 0 -1568px}
+.flair-medusa {content: ""; background-position: 0 -1596px}
+.flair-meepo {content: ""; background-position: 0 -1624px}
+.flair-mercurial {content: ""; background-position: 0 -1652px}
+.flair-mirana {content: ""; background-position: 0 -1680px}
+.flair-mogul {content: ""; background-position: 0 -1708px}
+.flair-morphling {content: ""; background-position: 0 -1736px}
+.flair-mortred {content: ""; background-position: 0 -1764px}
+.flair-naix {content: ""; background-position: 0 -1792px}
+.flair-nessaj {content: ""; background-position: 0 -1820px}
+.flair-nevermore {content: ""; background-position: 0 -1848px}
+.flair-nortrom {content: ""; background-position: 0 -1876px}
+.flair-puck {content: ""; background-position: 0 -1904px}
+.flair-pudge {content: ""; background-position: 0 -1932px}
+.flair-pugna {content: ""; background-position: 0 -1960px}
+.flair-purist {content: ""; background-position: 0 -1988px}
+.flair-raigor {content: ""; background-position: 0 -2016px}
+.flair-raijin {content: ""; background-position: 0 -2044px}
+.flair-rattletrap {content: ""; background-position: 0 -2072px}
+.flair-razor {content: ""; background-position: 0 -2100px}
+.flair-razzil {content: ""; background-position: 0 -2128px}
+.flair-rexxar {content: ""; background-position: 0 -2156px}
+.flair-rhasta {content: ""; background-position: 0 -2184px}
+.flair-rigwarl {content: ""; background-position: 0 -2212px}
+.flair-rikimaru {content: ""; background-position: 0 -2240px}
+.flair-rooftrellen {content: ""; background-position: 0 -2268px}
+.flair-rotundjere {content: ""; background-position: 0 -2296px}
+.flair-rubick {content: ""; background-position: 0 -2324px}
+.flair-rylai {content: ""; background-position: 0 -2352px}
+.flair-shendelzare {content: ""; background-position: 0 -2380px}
+.flair-slardar {content: ""; background-position: 0 -2408px}
+.flair-slark {content: ""; background-position: 0 -2436px}
+.flair-slithice {content: ""; background-position: 0 -2464px}
+.flair-squee {content: ""; background-position: 0 -2492px}
+.flair-strygwyr {content: ""; background-position: 0 -2520px}
+.flair-sven {content: ""; background-position: 0 -2548px}
+.flair-syllabear {content: ""; background-position: 0 -2576px}
+.flair-terrorblade {content: ""; background-position: 0 -2604px}
+.flair-thrall {content: ""; background-position: 0 -2632px}
+.flair-tiny {content: ""; background-position: 0 -2660px}
+.flair-traxex {content: ""; background-position: 0 -2688px}
+.flair-ulfsaar {content: ""; background-position: 0 -2716px}
+.flair-viper {content: ""; background-position: 0 -2744px}
+.flair-visage {content: ""; background-position: 0 -2772px}
+.flair-ymir {content: ""; background-position: 0 -2800px}
+.flair-voljin {content: ""; background-position: 0 -2828px}
+.flair-yurnero {content: ""; background-position: 0 -2856px}
+.flair-zeus {content: ""; background-position: 0 -2884px}
+.flair-oracle {content: ""; background-position: 0 -2912px;}
+.flair-kaolin {content: ""; background-position: 0 -2940px;}
+.flair-auroth {content: ""; background-position: 0 -2968px;}
+.flair-zet {content: ""; background-position: 0 -2996px;}
+.flair-santa {content: ""; background-position: 0 -3024px;}
+.flair-tresdin {content: ""; background-position: 0 -3052px;}
+.flair-rizzrak {content: ""; background-position: 0 -3080px;}
+.flair-dragonus {content: ""; background-position: 0 -3108px;}
+.flair-xin {content: ""; background-position: 0 -3136px;}
+.flair-linaarcana{content: ""; background-position: 0 -3164px;}
+.flair-legioncommanderarcana {content: ""; background-position: 0 -3192px;}
+.flair-terrorbladearcana {content: ""; background-position: 0 -3220px;}
+.flair-techiesarcana {content: ""; background-position: 0 -3248px;}
+.flair-shadowfiendarcana {content: ""; background-position: 0 -3276px;}
+.flair-phantomassassinarcana {content: ""; background-position: 0 -3304px;}
+.flair-crystalmaidenarcana {content: ""; background-position: 0 -3332px;}
+.flair-heroph8 {content: ""; background-position: 0 -3360px;}
+.flair-navi {content: ""; background-position: 0 -3389px;}
+.flair-jd {content: ""; background-position: 0 -3416px;}
+.flair-gg {content: ""; background-position: 0 -3444px;}
+.flair-eg {content: ""; background-position: 0 -3472px;}
+.flair-d2w {content: ""; background-position: 0 -3500px;}
+.flair-coL {content: ""; background-position: 0 -3528px;}
+.flair-twitch {content: ""; background-position: 0 -3556px;}
+.flair-db {content: ""; background-position: 0 -3584px;}
+.flair-dignitas {content: ""; background-position: 0 -3612px;}
+.flair-valve {content: ""; background-position: 0 -3640px;}
+.flair-dc {content: ""; background-position: 0 -3668px;}
+.flair-gd {content: ""; background-position: 0 -3696px;}
+.flair-og {content: ""; background-position: 0 -3724px;}
+.flair-neo {content: ""; background-position: 0 -3752px;}
+.flair-mlg {content: ""; background-position: 0 -3780px;}
+.flair-dota2league {content: ""; background-position: 0 -3808px;}
+.flair-dh {content: ""; background-position: 0 -3836px;}
+.flair-tl {content: ""; background-position: 0 -3864px;}
+.flair-bts {content: ""; background-position: 0 -3892px;}
+.flair-hgt {content: ""; background-position: 0 -3920px;}
+.flair-purge {content: ""; background-position: 0 -3948px;}
+.flair-monster {content: ""; background-position: 0 -3976px;}
+.flair-fnatic {content: ""; background-position: 0 -4004px;}
+.flair-mouz {content: ""; background-position: 0 -4032px;}
+.flair-d2l {content: ""; background-position: 0 -4060px;}
+.flair-esl {content: ""; background-position: 0 -4088px;}
+.flair-ss {content: ""; background-position: 0 -4116px;}
+.flair-lgd {content: ""; background-position: 0 -4144px;}
+.flair-sheever {content: ""; background-position: 0 -4172px;}
+.flair-wyk {content: ""; background-position: 0 -4200px;}
+.flair-pyrion {content: ""; background-position: 0 -4228px;}
+.flair-starladder {content: ""; background-position: 0 -4256px;}
+.flair-adl {content: ""; background-position: 0 -4284px;}
+.flair-alliance {content: ""; background-position: 0 -4312px;}
+.flair-d2ware {content: ""; background-position: 0 -4340px;}
+.flair-flipside {content: ""; background-position: 0 -4368px;}
+.flair-razer {content: ""; background-position: 0 -4396px;}
+.flair-scd {content: ""; background-position: 0 -4424px;}
+.flair-csl {content: ""; background-position: 0 -4452px;}
+.flair-gom {content: ""; background-position: 0 -4480px;}
+.flair-eswc {content: ""; background-position: 0 -4508px;}
+.flair-c9 {content: ""; background-position: 0 -4536px;}
+.flair-2p {content: ""; background-position: 0 -4564px;}
+.flair-esp {content: ""; background-position: 0 -4592px;}
+.flair-cevo {content: ""; background-position: 0 -4620px;}
+.flair-ehug {content: ""; background-position: 0 -4648px;}
+.flair-zephyr {content: ""; background-position: 0 -4676px;}
+.flair-formermod {content: ""; background-position: 0 -4704px;}
+.flair-d2t {content: ""; background-position: 0 -4732px;}
+.flair-titan {content: ""; background-position: 0 -4760px;}
+.flair-mod2 {content: ""; background-position: 0 -4788px;}
+.flair-canadacup {content: ""; background-position: 0 -4816px;}
+.flair-youporn {content: ""; background-position: 0 -4844px;}
+.flair-nadota {content: ""; background-position: 0 -4872px;}
+.flair-hitbox {content: ""; background-position: 0 -4900px;}
+.flair-esex {content: ""; background-position: 0 -4928px;}
+.flair-datdota {content: ""; background-position: 0 -4956px;}
+.flair-dotapit {content: ""; background-position: 0 -4984px;}
+.flair-dailydot {content: ""; background-position: 0 -5012px;}
+.flair-nip {content: ""; background-position: 0 -5040px;}
+.flair-marstv {content: ""; background-position: 0 -5068px;}
+.flair-faceit {content: ""; background-position: 0 -5096px;}
+.flair-vg {content: ""; background-position: 0 -5124px;} 
+.flair-rave {content: ""; background-position: 0 -5152px;}
+.flair-levi {content: ""; background-position: 0 -5180px;}
+.flair-gigabyte {content: ""; background-position: 0 -5208px;}  
+.flair-secret {content: ""; background-position: 0 -5236px;} 
+
+/* Team Flair */
+.flair-teamrs {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 0px;}
+.flair-teamfnatic {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -28px;}
+.flair-teamdk {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -56px;}
+.flair-teamlgd {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -84px;}
+.flair-teamehome {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -112px;}
+.flair-teamtongfu {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -140px;}
+.flair-teamcol {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -168px;}
+.flair-teammouz {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -196px;}
+.flair-teammtw {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -224px;}
+.flair-teameg {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -252px;}
+.flair-teamnavi {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -280px;}
+.flair-teamclg {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -308px;}
+.flair-teamzenith {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -336px;}
+.flair-teamal {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -364px;}
+.flair-teamig {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -392px;}
+.flair-teamdarer {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -420px;}
+.flair-teamm5 {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -448px;}
+.flair-teamoj {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -476px;}
+.flair-teamvp {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -504px;}
+.flair-teama {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -532px;}
+.flair-teamtl {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -560px;}
+.flair-teamquantic {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -588px;}
+.flair-teamlgdint {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -616px;}
+.flair-teamdignitas {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -644px;}
+.flair-teammufc {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -672px;}
+.flair-teamspeed {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -700px;}
+.flair-teamsigma {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -728px;}
+.flair-teamc9 {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -756px;}
+.flair-teammvp {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -784px;}
+.flair-teamrox {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -812px;}
+.flair-teamehug {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -840px;}
+.flair-teamempire {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -868px;}
+.flair-teamvici {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -896px;}
+.flair-teamtitan {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -924px;}
+.flair-teamnewbee {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -952px;}
+.flair-teamdt {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -980px;}
+.flair-teamnavina {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1008px;}
+.flair-teamarrow {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1036px;}
+.flair-teamcis {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1064px;}
+.flair-teamnyx {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1092px;}
+.flair-teamsecret {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1120px;}
+.flair-teamxtcn {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1148px;}
+.flair-teamtinker {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1176px;}
+.flair-teamanchor {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1204px;}
+.flair-teamnt {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1232px;}
+.flair-teambiggod {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1260px;}
+.flair-teamcdec {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1288px;}
+.flair-teamhr {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1316px;}
+.flair-teamnip {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1344px;}
+.flair-teamrave {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1372px;}  
+.flair-teamvega {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1400px;}  
+.flair-teamlc {background: url(%%user-p-fade-ti5%%) no-repeat scroll -9999px -9999px transparent; background-position: 0 -1428px;}
+/* END TI5 Flair */
+.flair-reaver {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 0px;}
+.flair-forcestaff {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -28px;}
+.flair-matt {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -56px;}
+.flair-bloodstone {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -84px;}
+.flair-brog {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -112px;}
+.flair-refresh {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -140px;}
+.flair-blink {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -168px;}
+.flair-midas {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -196px;}
+.flair-synd {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -224px;}
+.flair-deso {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -252px;}
+.flair-skadi {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -280px;}
+.flair-tango {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -308px;}
+.flair-rapier {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -336px;}
+.flair-techies {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -364px;}
+.flair-voidsp {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -392px;}
+.flair-creepymaiden {background: url(%%custom-spookycm%%) no-repeat scroll -9999px -9999px transparent;
+background-position: 0 -420px;}
+a[href="/flair-reaver"]:after, a[href="/flair-forcestaff"]:after, a[href="/flair-matt"]:after, a[href="/flair-bloodstone"]:after, a[href="/flair-brog"]:after, a[href="/flair-refresh"]:after, a[href="/flair-blink"]:after, a[href="/flair-midas"]:after, a[href="/flair-synd"]:after, a[href="/flair-deso"]:after, a[href="/flair-skadi"]:after, a[href="/flair-tango"]:after, a[href="/flair-rapier"]:after, a[href="/flair-techies"]:after, a[href="/techiesfcae"]:after, a[href="/techiesface"]:after, a[href="/flair-creepymaiden"]:after  {
+ background:transparent url(%%custom-spookycm%%) no-repeat;
+ width:50px;
+ height:28px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ vertical-align: middle;
+ content: "";
+}
+a[href="/flair-reaver"]:after {background-position:0 0px;}
+a[href="/flair-forcestaff"]:after {background-position:0 -28px;}
+a[href="/flair-matt"]:after {background-position:0 -56px;}
+a[href="/flair-bloodstone"]:after {background-position:0 -84px;}
+a[href="/flair-brog"]:after {background-position:0 -112px;}
+a[href="/flair-refresh"]:after {background-position:0 -140px;}
+a[href="/flair-blink"]:after {background-position:0 -168px;}
+a[href="/flair-midas"]:after {background-position:0 -196px;}
+a[href="/flair-synd"]:after {background-position:0 -224px;}
+a[href="/flair-deso"]:after {background-position:0 -252px;}
+a[href="/flair-skadi"]:after {background-position:0 -280px;}
+a[href="/flair-tango"]:after {background-position:0 -308px;}
+a[href="/flair-rapier"]:after {background-position:0 -336px;}
+a[href="/flair-techies"]:after, a[href="/techiesface"]:after, a[href="/techiesfcae"]:after {background-position:0 -364px;} 
+a[href="/flair-creepymaiden"]:after {background-position:0 -420px;}
+a[href="/r/DotA2/w/subreddit"]:after, a[href="/r/DotA2/w/competitive"]:after, a[href="/r/DotA2/w/faq"]:after, a[href="/r/DotA2/w/wisp"]:after, a[href="/r/DotA2/w/guide"]:after {
+ background:transparent url(%%icons-wiki-a%%) no-repeat;
+ width:128px;
+ height:128px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ vertical-align: middle;
+ content: "";
+}
+a[href="/r/DotA2/w/subreddit"]:after {background-position:-128px 0px;}
+a[href="/r/DotA2/w/competitive"]:after {background-position:-128px -128px;}
+a[href="/r/DotA2/w/faq"]:after {background-position:-128px -256px;}
+a[href="/r/DotA2/w/wisp"]:after {background-position:-128px -384px;}
+a[href="/r/DotA2/w/guide"]:after {background-position:-128px -512px;}
+a[href="/r/DotA2/w/subreddit"]:hover:after {background-position:0 0px;}
+a[href="/r/DotA2/w/competitive"]:hover:after {background-position:0 -128px;}
+a[href="/r/DotA2/w/faq"]:hover:after {background-position:0 -256px;}
+a[href="/r/DotA2/w/wisp"]:hover:after {background-position:0 -384px;}
+a[href="/r/DotA2/w/guide"]:hover:after {background-position:0 -512px;}
+a[href="/r/DotA2/w/subreddit"], a[href="/r/DotA2/w/competitive"], a[href="/r/DotA2/w/faq"], a[href="/r/DotA2/w/wisp"], a[href="/r/DotA2/w/guide"] {
+display:block;
+width:128px;
+height:128px;
+}
+a[href="/ad"], a[href="/ae"], a[href="/af"], a[href="/ag"], a[href="/ai"], a[href="/al"], a[href="/am"], a[href="/an"], a[href="/ao"], a[href="/ar"], a[href="/as"], a[href="/at"], a[href="/au"], a[href="/aw"], a[href="/az"], a[href="/ba"], a[href="/bb"], a[href="/bd"], a[href="/be"], a[href="/bf"], a[href="/bg"], a[href="/bh"], a[href="/bi"], a[href="/bj"], a[href="/bm"], a[href="/bn"], a[href="/bo"], a[href="/br"], a[href="/bs"], a[href="/bt"], a[href="/bv"], a[href="/bw"], a[href="/by"], a[href="/bz"], a[href="/ca"], a[href="/catalonia"], a[href="/cd"], a[href="/cf"], a[href="/cg"], a[href="/ch"], a[href="/ci"], a[href="/ck"], a[href="/cl"], a[href="/cm"], a[href="/cn"], a[href="/co"], a[href="/cr"], a[href="/cu"], a[href="/cv"], a[href="/cy"], a[href="/cz"], a[href="/de"], a[href="/dj"], a[href="/dk"], a[href="/dm"], a[href="/do"], a[href="/dz"], a[href="/ec"], a[href="/ee"], a[href="/eg"], a[href="/eh"], a[href="/england"], a[href="/er"], a[href="/es"], a[href="/et"], a[href="/eu"], a[href="/fi"], a[href="/fj"], a[href="/fk"], a[href="/fm"], a[href="/fo"], a[href="/fr"], a[href="/ga"], a[href="/gb"], a[href="/gd"], a[href="/ge"], a[href="/gf"], a[href="/gg"], a[href="/gh"], a[href="/gi"], a[href="/gl"], a[href="/gm"], a[href="/gn"], a[href="/gp"], a[href="/gq"], a[href="/gr"], a[href="/gs"], a[href="/gt"], a[href="/gu"], a[href="/gw"], a[href="/gy"], a[href="/hk"], a[href="/hm"], a[href="/hn"], a[href="/hr"], a[href="/ht"], a[href="/hu"], a[href="/id"], a[href="/ie"], a[href="/il"], a[href="/im"], a[href="/in"], a[href="/io"], a[href="/iq"], a[href="/ir"], a[href="/is"], a[href="/it"], a[href="/je"], a[href="/jm"], a[href="/jo"], a[href="/jp"], a[href="/ke"], a[href="/kg"], a[href="/kh"], a[href="/ki"], a[href="/km"], a[href="/kn"], a[href="/kp"], a[href="/kr"], a[href="/kw"], a[href="/ky"], a[href="/kz"], a[href="/la"], a[href="/lb"], a[href="/lc"], a[href="/li"], a[href="/lk"], a[href="/lr"], a[href="/ls"], a[href="/lt"], a[href="/lu"], a[href="/lv"], a[href="/ly"], a[href="/ma"], a[href="/mc"], a[href="/md"], a[href="/me"], a[href="/mg"], a[href="/mh"], a[href="/mk"], a[href="/ml"], a[href="/mm"], a[href="/mn"], a[href="/mo"], a[href="/mp"], a[href="/mq"], a[href="/mr"], a[href="/ms"], a[href="/mt"], a[href="/mu"], a[href="/mv"], a[href="/mw"], a[href="/mx"], a[href="/my"], a[href="/mz"], a[href="/na"], a[href="/nc"], a[href="/ne"], a[href="/nf"], a[href="/ng"], a[href="/ni"], a[href="/nl"], a[href="/no"], a[href="/np"], a[href="/nr"], a[href="/nu"], a[href="/nz"], a[href="/om"], a[href="/pa"], a[href="/pe"], a[href="/pf"], a[href="/pg"], a[href="/ph"], a[href="/pk"], a[href="/pl"], a[href="/pm"], a[href="/pn"], a[href="/pr"], a[href="/ps"], a[href="/pt"], a[href="/pw"], a[href="/py"], a[href="/qa"], a[href="/re"], a[href="/ro"], a[href="/rs"], a[href="/ru"], a[href="/rw"], a[href="/sa"], a[href="/sb"], a[href="/sc"], a[href="/scotland"], a[href="/sd"], a[href="/se"], a[href="/sg"], a[href="/sh"], a[href="/si"], a[href="/sk"], a[href="/sl"], a[href="/sm"], a[href="/sn"], a[href="/so"], a[href="/sr"], a[href="/ss"], a[href="/st"], a[href="/sv"], a[href="/sy"], a[href="/sz"], a[href="/tc"], a[href="/td"], a[href="/tf"], a[href="/tg"], a[href="/th"], a[href="/tj"], a[href="/tk"], a[href="/tl"], a[href="/tm"], a[href="/tn"], a[href="/to"], a[href="/tr"], a[href="/tt"], a[href="/tv"], a[href="/tw"], a[href="/tz"], a[href="/ua"], a[href="/ug"], a[href="/um"], a[href="/us"], a[href="/uy"], a[href="/uz"], a[href="/va"], a[href="/vc"], a[href="/ve"], a[href="/vg"], a[href="/vi"], a[href="/vn"], a[href="/vu"], a[href="/wales"], a[href="/wf"], a[href="/ws"], a[href="/ye"], a[href="/yt"], a[href="/za"], a[href="/zm"], a[href="/zw"], a[href="/xx"], a[href="/wo"], a[href="/un"] {
+ background:transparent url(%%ret%%) no-repeat;
+ width: 16px;
+ height: 11px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ margin: -4px 0px 0px 0px;
+ content: "";
+ position: relative;
+ /*z-index: 200;*/
+}
+a[href="/ad"] {background-position: -16px 0} a[href="/ae"] {background-position: -32px 0}
+a[href="/af"] {background-position: -48px 0} a[href="/ag"] {background-position: -64px 0}
+a[href="/ai"] {background-position: -80px 0} a[href="/al"] {background-position: -96px 0}
+a[href="/am"] {background-position: -112px 0} a[href="/an"] {background-position: -128px 0}
+a[href="/ao"] {background-position: -144px 0} a[href="/ar"] {background-position: -160px 0}
+a[href="/as"] {background-position: -176px 0} a[href="/at"] {background-position: -192px 0}
+a[href="/au"] {background-position: -208px 0} a[href="/aw"] {background-position: -224px 0}
+a[href="/az"] {background-position: -240px 0} a[href="/ba"] {background-position: 0 -11px}
+a[href="/bb"] {background-position: -16px -11px} a[href="/bd"] {background-position: -32px -11px}
+a[href="/be"] {background-position: -48px -11px} a[href="/bf"] {background-position: -64px -11px}
+a[href="/bg"] {background-position: -80px -11px} a[href="/bh"] {background-position: -96px -11px}
+a[href="/bi"] {background-position: -112px -11px} a[href="/bj"] {background-position: -128px -11px}
+a[href="/bm"] {background-position: -144px -11px} a[href="/bn"] {background-position: -160px -11px}
+a[href="/bo"] {background-position: -176px -11px} a[href="/br"] {background-position: -192px -11px}
+a[href="/bs"] {background-position: -208px -11px} a[href="/bt"] {background-position: -224px -11px}
+a[href="/bv"] {background-position: -240px -11px} a[href="/bw"] {background-position: 0 -22px}
+a[href="/by"] {background-position: -16px -22px} a[href="/bz"] {background-position: -32px -22px}
+a[href="/ca"] {background-position: -48px -22px} a[href="/cd"] {background-position: -80px -22px}
+a[href="/cf"] {background-position: -96px -22px} a[href="/cg"] {background-position: -112px -22px}
+a[href="/ch"] {background-position: -128px -22px} a[href="/ci"] {background-position: -144px -22px}
+a[href="/ck"] {background-position: -160px -22px} a[href="/cl"] {background-position: -176px -22px}
+a[href="/cm"] {background-position: -192px -22px} a[href="/cn"] {background-position: -208px -22px}
+a[href="/co"] {background-position: -224px -22px} a[href="/cr"] {background-position: -240px -22px}
+a[href="/cu"] {background-position: 0 -33px} a[href="/cv"] {background-position: -16px -33px}
+a[href="/cy"] {background-position: -32px -33px} a[href="/cz"] {background-position: -48px -33px}
+a[href="/de"] {background-position: -64px -33px} a[href="/dj"] {background-position: -80px -33px}
+a[href="/dk"] {background-position: -96px -33px} a[href="/dm"] {background-position: -112px -33px}
+a[href="/do"] {background-position: -128px -33px} a[href="/dz"] {background-position: -144px -33px}
+a[href="/ec"] {background-position: -160px -33px} a[href="/ee"] {background-position: -176px -33px}
+a[href="/eg"] {background-position: -192px -33px} a[href="/eh"] {background-position: -208px -33px}
+a[href="/england"] {background-position: -224px -33px} a[href="/er"] {background-position: -240px -33px}
+a[href="/es"] {background-position: 0 -44px} a[href="/et"] {background-position: -16px -44px}
+a[href="/eu"] {background-position: -32px -44px} a[href="/fi"] {background-position: -48px -44px}
+a[href="/fj"] {background-position: -64px -44px} a[href="/fk"] {background-position: -80px -44px}
+a[href="/fm"] {background-position: -96px -44px} a[href="/fo"] {background-position: -112px -44px}
+a[href="/fr"] {background-position: -128px -44px} a[href="/ga"] {background-position: -144px -44px}
+a[href="/gb"] {background-position: -160px -44px} a[href="/gd"] {background-position: -176px -44px}
+a[href="/ge"] {background-position: -192px -44px} a[href="/gf"] {background-position: -208px -44px}
+a[href="/gg"] {background-position: -224px -44px} a[href="/gh"] {background-position: -240px -44px}
+a[href="/gi"] {background-position: 0 -55px} a[href="/gl"] {background-position: -16px -55px}
+a[href="/gm"] {background-position: -32px -55px} a[href="/gn"] {background-position: -48px -55px}
+a[href="/gp"] {background-position: -64px -55px} a[href="/gq"] {background-position: -80px -55px}
+a[href="/gr"] {background-position: -96px -55px} a[href="/gs"] {background-position: -112px -55px}
+a[href="/gt"] {background-position: -128px -55px} a[href="/gu"] {background-position: -144px -55px}
+a[href="/gw"] {background-position: -160px -55px} a[href="/gy"] {background-position: -176px -55px}
+a[href="/hk"] {background-position: -192px -55px} a[href="/hm"] {background-position: -208px -55px}
+a[href="/hn"] {background-position: -224px -55px} a[href="/hr"] {background-position: -240px -55px}
+a[href="/ht"] {background-position: 0 -66px} a[href="/hu"] {background-position: -16px -66px}
+a[href="/id"] {background-position: -32px -66px} a[href="/ie"] {background-position: -48px -66px}
+a[href="/il"] {background-position: -64px -66px} a[href="/im"] {background-position: -80px -66px}
+a[href="/in"] {background-position: -96px -66px} a[href="/io"] {background-position: -112px -66px}
+a[href="/iq"] {background-position: -128px -66px} a[href="/ir"] {background-position: -144px -66px}
+a[href="/is"] {background-position: -160px -66px} a[href="/it"] {background-position: -176px -66px}
+a[href="/je"] {background-position: -192px -66px} a[href="/jm"] {background-position: -208px -66px}
+a[href="/jo"] {background-position: -224px -66px} a[href="/jp"] {background-position: -240px -66px}
+a[href="/ke"] {background-position: 0 -77px} a[href="/kg"] {background-position: -16px -77px}
+a[href="/kh"] {background-position: -32px -77px} a[href="/ki"] {background-position: -48px -77px}
+a[href="/km"] {background-position: -64px -77px} a[href="/kn"] {background-position: -80px -77px}
+a[href="/kp"] {background-position: -96px -77px} a[href="/kr"] {background-position: -112px -77px}
+a[href="/kw"] {background-position: -128px -77px} a[href="/ky"] {background-position: -144px -77px}
+a[href="/kz"] {background-position: -160px -77px} a[href="/la"] {background-position: -176px -77px}
+a[href="/lb"] {background-position: -192px -77px} a[href="/lc"] {background-position: -208px -77px}
+a[href="/li"] {background-position: -224px -77px} a[href="/lk"] {background-position: -240px -77px}
+a[href="/lr"] {background-position: 0 -88px} a[href="/ls"] {background-position: -16px -88px}
+a[href="/lt"] {background-position: -32px -88px} a[href="/lu"] {background-position: -48px -88px}
+a[href="/lv"] {background-position: -64px -88px} a[href="/ly"] {background-position: -80px -88px}
+a[href="/ma"] {background-position: -96px -88px} a[href="/mc"] {background-position: -112px -88px}
+a[href="/md"] {background-position: -128px -88px} a[href="/me"] {background-position: -144px -88px}
+a[href="/mg"] {background-position: -160px -88px} a[href="/mh"] {background-position: -176px -88px}
+a[href="/mk"] {background-position: -192px -88px} a[href="/ml"] {background-position: -208px -88px}
+a[href="/mm"] {background-position: -224px -88px} a[href="/mn"] {background-position: -240px -88px}
+a[href="/mo"] {background-position: 0 -99px} a[href="/mp"] {background-position: -16px -99px}
+a[href="/mq"] {background-position: -32px -99px} a[href="/mr"] {background-position: -48px -99px}
+a[href="/ms"] {background-position: -64px -99px} a[href="/mt"] {background-position: -80px -99px}
+a[href="/mu"] {background-position: -96px -99px} a[href="/mv"] {background-position: -112px -99px}
+a[href="/mw"] {background-position: -128px -99px} a[href="/mx"] {background-position: -144px -99px}
+a[href="/my"] {background-position: -160px -99px} a[href="/mz"] {background-position: -176px -99px}
+a[href="/na"] {background-position: -192px -99px} a[href="/nc"] {background-position: -208px -99px}
+a[href="/ne"] {background-position: -224px -99px} a[href="/nf"] {background-position: -240px -99px}
+a[href="/ng"] {background-position: 0 -110px} a[href="/ni"] {background-position: -16px -110px}
+a[href="/nl"] {background-position: -32px -110px} a[href="/no"] {background-position: -48px -110px}
+a[href="/np"] {background-position: -64px -110px} a[href="/nr"] {background-position: -80px -110px}
+a[href="/nu"] {background-position: -96px -110px} a[href="/nz"] {background-position: -112px -110px}
+a[href="/om"] {background-position: -128px -110px} a[href="/pa"] {background-position: -144px -110px}
+a[href="/pe"] {background-position: -160px -110px} a[href="/pf"] {background-position: -176px -110px}
+a[href="/pg"] {background-position: -192px -110px} a[href="/ph"] {background-position: -208px -110px}
+a[href="/pk"] {background-position: -224px -110px} a[href="/pl"] {background-position: -240px -110px}
+a[href="/pm"] {background-position: 0 -121px} a[href="/pn"] {background-position: -16px -121px}
+a[href="/pr"] {background-position: -32px -121px} a[href="/ps"] {background-position: -48px -121px}
+a[href="/pt"] {background-position: -64px -121px} a[href="/pw"] {background-position: -80px -121px}
+a[href="/py"] {background-position: -96px -121px} a[href="/qa"] {background-position: -112px -121px}
+a[href="/re"] {background-position: -128px -121px} a[href="/ro"] {background-position: -144px -121px}
+a[href="/rs"] {background-position: -160px -121px} a[href="/ru"] {background-position: -176px -121px}
+a[href="/rw"] {background-position: -192px -121px} a[href="/sa"] {background-position: -208px -121px}
+a[href="/sb"] {background-position: -224px -121px} a[href="/sc"] {background-position: -240px -121px}
+a[href="/scotland"] {background-position: 0 -132px} a[href="/sd"] {background-position: -16px -132px}
+a[href="/se"] {background-position: -32px -132px} a[href="/sg"] {background-position: -48px -132px}
+a[href="/sh"] {background-position: -64px -132px} a[href="/si"] {background-position: -80px -132px}
+a[href="/sk"] {background-position: -96px -132px} a[href="/sl"] {background-position: -112px -132px}
+a[href="/sm"] {background-position: -128px -132px} a[href="/sn"] {background-position: -144px -132px}
+a[href="/so"] {background-position: -160px -132px} a[href="/sr"] {background-position: -176px -132px}
+a[href="/ss"] {background-position: -192px -132px} a[href="/st"] {background-position: -208px -132px}
+a[href="/sv"] {background-position: -224px -132px} a[href="/sy"] {background-position: -240px -132px}
+a[href="/sz"] {background-position: 0 -143px} a[href="/tc"] {background-position: -16px -143px}
+a[href="/td"] {background-position: -32px -143px} a[href="/tf"] {background-position: -48px -143px}
+a[href="/tg"] {background-position: -64px -143px} a[href="/th"] {background-position: -80px -143px}
+a[href="/tj"] {background-position: -96px -143px} a[href="/tk"] {background-position: -112px -143px}
+a[href="/tl"] {background-position: -128px -143px} a[href="/tm"] {background-position: -144px -143px}
+a[href="/tn"] {background-position: -160px -143px} a[href="/to"] {background-position: -176px -143px}
+a[href="/tr"] {background-position: -192px -143px} a[href="/tt"] {background-position: -208px -143px}
+a[href="/tv"] {background-position: -224px -143px} a[href="/tw"] {background-position: -240px -143px}
+a[href="/tz"] {background-position: 0 -154px} a[href="/ua"] {background-position: -16px -154px}
+a[href="/ug"] {background-position: -32px -154px} a[href="/um"] {background-position: -48px -154px}
+a[href="/us"] {background-position: -64px -154px} a[href="/uy"] {background-position: -80px -154px}
+a[href="/uz"] {background-position: -96px -154px} a[href="/va"] {background-position: -112px -154px}
+a[href="/vc"] {background-position: -128px -154px} a[href="/ve"] {background-position: -144px -154px}
+a[href="/vg"] {background-position: -160px -154px} a[href="/vi"] {background-position: -176px -154px}
+a[href="/vn"] {background-position: -192px -154px} a[href="/vu"] {background-position: -208px -154px}
+a[href="/wf"] {background-position: -240px -154px} a[href="/ws"] {background-position: 0 -165px}
+a[href="/ye"] {background-position: -16px -165px} a[href="/yt"] {background-position: -32px -165px}
+a[href="/za"] {background-position: -48px -165px} a[href="/zm"] {background-position: -64px -165px}
+a[href="/zw"] {background-position: -80px -165px} a[href="/xx"] {background-position: -96px -165px}
+a[href="/wo"] {background-position: -112px -165px}
+a[href="/un"] {background-position: -112px -165px}
+a[href="/twitch"] {
+ background:transparent url(%%ret%%) no-repeat;
+ width: 16px;
+ height: 16px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ margin: 10px 0px -4px 0px;
+ content: "";
+ position: relative;
+ /*z-index: 200;*/
+}
+a[href="/twitch"] {background-position: -129px -165px}
+.author[href$="/SelfishHEHJK"]:after, .author[href$="/ArteezyArteezy"]:after, .author[href$="/Silent331"]:after, .author[href$="/Coecane"]:after, .author[href$="/fsharpasharp"]:after, .author[href$="/zxczxceoC"]:after, .author[href$="/Aui_2000"]:after, .author[href$="/Dsmk_"]:after, .author[href$="/actanonverba1"]:after, .author[href$="/Slurmz"]:after, .author[href$="/pwnies104"]:after, .author[href$="/bistromathematics"]:after, .author[href$="/LambBeforeTime"]:after, .author[href$="/rageplant"]:after, .author[href$="/intricatekill"]:after, .author[href$="/rottE-"]:after, .author[href$="/awallos09"]:after, .author[href$="/Neromler"]:after, .author[href$="/Khazers"]:after, .author[href$="/TehPinkEmoBunni"]:after, .author[href$="/nifeninja"]:after, .author[href$="/LoveAILEE"]:after, .author[href$="/Big_Cliff"]:after, .author[href$="/ThomsonSyndrome"]:after, .author[href$="/itzreviax"]:after, .author[href$="/Fate-"]:after, .author[href$="/Gofu-"]:after, .author[href$="/109iscute"]:after, .author[href$="/wikingss"]:after, .author[href$="/Easydoesit242"]:after, a[href*="/medal-gold"] {
+ background: url(%%gold-medal%%) !important;
+ position: relative !important;
+ right: 0 !important;
+ bottom: -3px !important;
+ overflow: visible !important;
+ width: 11px !important;
+ height: 16px !important;
+ display: inline-block;
+content: " ";
+}
+.author[href$="/Shred_Kid"]:after, .author[href$="/tieren"]:after, .author[href$="/_Greed_"]:after, .author[href$="/jaizix"]:after, .author[href$="/promirana"]:after, .author[href$="/origamimouse"]:after, .author[href$="/Beroya"]:after, .author[href$="/Korokodile"]:after, .author[href$="/Phalse"]:after, .author[href$="/Vataro"]:after, .author[href$="/k_electron"]:after, .author[href$="/gaurdian_of_lo"]:after, .author[href$="/kenny333"]:after, .author[href$="/HotHands"]:after, .author[href$="/HockeyHippo"]:after, .author[href$="/Maesu"]:after, .author[href$="/FatShamu"]:after, .author[href$="/link2110"]:after, .author[href$="/Adjective_"]:after, .author[href$="/Judasgoat"]:after, .author[href$="/angeldarkened"]:after, a[href*="/medal-silver"] {
+ background: url(%%silver-medal%%) !important;
+ position: relative !important;
+ right: 0 !important;
+ bottom: -3px !important;
+ overflow: visible !important;
+ width: 11px !important;
+ height: 16px !important;
+ display: inline-block;
+content: " ";
+}
+.author[href$="/Samology"]:after, .author[href$="/Blizzxx"]:after, .author[href$="/lonjaxson"]:after, .author[href$="/loqueis"]:after, .author[href$="/NigmaNoname"]:after, .author[href$="/Phogue"]:after, .author[href$="/Adamantoise"]:after, .author[href$="/Deadhookersandblow"]:after, .author[href$="/Manometer"]:after, .author[href$="/ilifan"]:after, .author[href$="/midgetpunter"]:after, .author[href$="/grunthor"]:after, .author[href$="/Chunkymeats"]:after, .author[href$="/ultima0chaotic"]:after, .author[href$="/apehoops"]:after, .author[href$="/Kiz01"]:after, .author[href$="/Mousehandsix"]:after, .author[href$="/Ryke15"]:after, .author[href$="/watson164"]:after, .author[href$="/hopelessnyms"]:after, .author[href$="/capital-j"]:after, .author[href$="/InverseDota"]:after, .author[href$="/DisapearingTwinkie"]:after, .author[href$="/bombboy91"]:after, a[href*="/medal-bronze"] {
+ background: url(%%bronze-medal%%) !important;
+ position: relative !important;
+ right: 0 !important;
+ bottom: -3px !important;
+ overflow: visible !important;
+ width: 11px !important;
+ height: 16px !important;
+ display: inline-block;
+content: " ";
+}
+/* RET STUFF TEMP FOR TI */
+/* Groups */
+.content blockquote table {
+ float: left;
+}
+.content blockquote table:nth-child(odd) {
+ clear: both;
+}
+.content blockquote table:nth-child(n+3) {
+ margin-top: 20px;
+}
+.content blockquote table {
+ background: #f9f9f9;
+ margin-left: -6px;
+}
+.content blockquote td {
+ border: 1px #aaa solid;
+ padding: 0.2em;
+}
+.content blockquote th {
+ border: 1px #aaa solid;
+ background-color: #f2f2f2;
+ color: #000;
+}
+.content blockquote th:nth-child(1) {
+ display: none;
+}
+.content blockquote th:nth-child(2) {
+ width: 250px;
+ text-align: center;
+}
+.content blockquote td:nth-child(1) {
+ padding-right: 20%;
+ padding-left: 10px;
+}
+.content blockquote td:nth-child(2) {
+ width: 20%;
+ left: -20%;
+ position: relative;
+ border: 0px;
+}
+.content blockquote:after {
+ content: ".";
+ display: block;
+ height: 0;
+ clear: both;
+ visibility: hidden;
+}
+/* OSTARION THREAD UPPERCASE IN MEMORIAM */
+.id-t3_1sn1lc,
+#form-t3_1sn1lc2y1,
+#siteTable_t3_1sn1lc {text-transform: UPPERCASE;}
+.id-t3_29wckl .md, .id-t3_2aw26w .md
+#siteTable_t3_29wckl .md, #siteTable_t3_2aw26w .md {text-transform: UPPERCASE; font-weight:bold;}
+/* NYXNYXNYX */
+.id-t3_212sjd a,
+#siteTable_t3_212sjd a {content: ''}
+.id-t3_212sjd a:before,
+#siteTable_t3_212sjd a:before {content: 'nyxnyx'}
+.id-t3_212sjd a:after,
+#siteTable_t3_212sjd a:after {content: 'nyxnyx!'}
+#siteTable_t3_212sjd .comment p {content: ''}
+#siteTable_t3_212sjd .comment p:before {content: 'nyxnyx'}
+#siteTable_t3_212sjd .comment p:after {content: 'nyxnyx!'}
+/** THAT THING THAT GUY ASKED FOR **/
+.linkinfo .upvotes .word{font-size:0}
+.linkinfo .upvotes:after{content:"last hits"}
+.linkinfo .downvotes .word{font-size:0}
+.linkinfo .downvotes:after{content:"denies"}
+.linkinfo .score .number:after{content:" Votes";font-size:15px}
+.linkinfo .score .word{display:none}
+/**Flair Table**/
+a[href="/flair-navi"]:after, a[href="/flair-jd"]:after, a[href="/flair-gg"]:after, a[href="/flair-eg"]:after, a[href="/flair-d2w"]:after, a[href="/flair-coL"]:after, a[href="/flair-twitch"]:after, a[href="/flair-db"]:after, a[href="/flair-dignitas"]:after, a[href="/flair-valve"]:after, a[href="/flair-dc"]:after, a[href="/flair-gd"]:after, a[href="/flair-og"]:after, a[href="/flair-neo"]:after, a[href="/flair-mlg"]:after, a[href="/flair-dota2league"]:after, a[href="/flair-dh"]:after, a[href="/flair-tl"]:after, a[href="/flair-bts"]:after, a[href="/flair-hgt"]:after, a[href="/flair-purge"]:after, a[href="/flair-monster"]:after, a[href="/flair-fnatic"]:after, a[href="/flair-mouz"]:after, a[href="/flair-d2l"]:after, a[href="/flair-esl"]:after, a[href="/flair-ss"]:after, a[href="/flair-lgd"]:after, a[href="/flair-sheever"]:after, a[href="/flair-wyk"]:after, a[href="/flair-pyrion"]:after, a[href="/flair-starladder"]:after, a[href="/flair-adl"]:after, a[href="/flair-alliance"]:after, a[href="/flair-d2ware"]:after, a[href="/flair-flipside"]:after, a[href="/flair-razer"]:after, a[href="/flair-scd"]:after, a[href="/flair-csl"]:after, a[href="/flair-gom"]:after, a[href="/flair-eswc"]:after, a[href="/flair-c9"]:after, a[href="/flair-2p"]:after, a[href="/flair-esp"]:after, a[href="/flair-cevo"]:after, a[href="/flair-ehug"]:after, a[href="/flair-zephyr"]:after, a[href="/flair-fof"]:after, a[href="/flair-d2t"]:after, a[href="/flair-titan"]:after {
+background:transparent url(%%icon-face%%) no-repeat;
+ width:50px;
+ height:28px;
+ display: inline-block;
+ background-position: -9999px -9999px;
+ vertical-align: middle;
+ content: "";
+}
+a[href="/flair-navi"]:after {content: ""; background-position: 0 -3388px;}
+a[href="/flair-jd"]:after {content: ""; background-position: 0 -3416px;}
+a[href="/flair-gg"]:after {content: ""; background-position: 0 -3444px;}
+a[href="/flair-eg"]:after {content: ""; background-position: 0 -3472px;}
+a[href="/flair-d2w"]:after {content: ""; background-position: 0 -3500px;}
+a[href="/flair-coL"]:after {content: ""; background-position: 0 -3528px;}
+a[href="/flair-twitch"]:after {content: ""; background-position: 0 -3556px;}
+a[href="/flair-db"]:after {content: ""; background-position: 0 -3584px;}
+a[href="/flair-dignitas"]:after {content: ""; background-position: 0 -3612px;}
+a[href="/flair-valve"]:after {content: ""; background-position: 0 -3640px;}
+a[href="/flair-dc"]:after {content: ""; background-position: 0 -3668px;}
+a[href="/flair-gd"]:after {content: ""; background-position: 0 -3696px;}
+a[href="/flair-og"]:after {content: ""; background-position: 0 -3724px;}
+a[href="/flair-neo"]:after {content: ""; background-position: 0 -3752px;}
+a[href="/flair-mlg"]:after {content: ""; background-position: 0 -3780px;}
+a[href="/flair-dota2league"]:after {content: ""; background-position: 0 -3808px;}
+a[href="/flair-dh"]:after {content: ""; background-position: 0 -3836px;}
+a[href="/flair-tl"]:after {content: ""; background-position: 0 -3864px;}
+a[href="/flair-bts"]:after {content: ""; background-position: 0 -3892px;}
+a[href="/flair-hgt"]:after {content: ""; background-position: 0 -3920px;}
+a[href="/flair-purge"]:after {content: ""; background-position: 0 -3948px;}
+a[href="/flair-monster"]:after {content: ""; background-position: 0 -3976px;}
+a[href="/flair-fnatic"]:after {content: ""; background-position: 0 -4004px;}
+a[href="/flair-mouz"]:after {content: ""; background-position: 0 -4032px;}
+a[href="/flair-d2l"]:after {content: ""; background-position: 0 -4060px;}
+a[href="/flair-esl"]:after {content: ""; background-position: 0 -4088px;}
+a[href="/flair-ss"]:after {content: ""; background-position: 0 -4116px;}
+a[href="/flair-lgd"]:after {content: ""; background-position: 0 -4144px;}
+a[href="/flair-sheever"]:after {content: ""; background-position: 0 -4172px;}
+a[href="/flair-wyk"]:after {content: ""; background-position: 0 -4200px;}
+a[href="/flair-pyrion"]:after {content: ""; background-position: 0 -4228px;}
+a[href="/flair-starladder"]:after {content: ""; background-position: 0 -4256px;}
+a[href="/flair-adl"]:after {content: ""; background-position: 0 -4284px;}
+a[href="/flair-alliance"]:after {content: ""; background-position: 0 -4312px;}
+a[href="/flair-d2ware"]:after {content: ""; background-position: 0 -4340px;}
+a[href="/flair-flipside"]:after {content: ""; background-position: 0 -4368px;}
+a[href="/flair-razer"]:after {content: ""; background-position: 0 -4396px;}
+a[href="/flair-scd"]:after {content: ""; background-position: 0 -4424px;}
+a[href="/flair-csl"]:after {content: ""; background-position: 0 -4452px;}
+a[href="/flair-gom"]:after {content: ""; background-position: 0 -4480px;}
+a[href="/flair-eswc"]:after {content: ""; background-position: 0 -4508px;}
+a[href="/flair-c9"]:after {content: ""; background-position: 0 -4536px;}
+a[href="/flair-2p"]:after {content: ""; background-position: 0 -4564px;}
+a[href="/flair-esp"]:after {content: ""; background-position: 0 -4592px;}
+a[href="/flair-cevo"]:after {content: ""; background-position: 0 -4620px;}
+a[href="/flair-ehug"]:after {content: ""; background-position: 0 -4648px;}
+a[href="/flair-zephyr"]:after {content: ""; background-position: 0 -4676px;}
+a[href="/flair-fof"]:after {content: ""; background-position: 0 -4704px;}
+a[href="/flair-d2t"]:after {content: ""; background-position: 0 -4732px;}
+a[href="/flair-titan"]:after {content: ""; background-position: 0 -4760px;}
+/**END CUSTOM FLAIR**/
+/* Titan AMA */
+#siteTable_t3_230ky6 a.author[href$="/Titan-Xtinct"],
+#siteTable_t3_230ky6 a.author[href$="/titan-net"],
+#siteTable_t3_230ky6 a.author[href$="/titankyxy"],
+#siteTable_t3_230ky6 a.author[href$="/nwp90hwh"],
+#siteTable_t3_230ky6 a.author[href$="/Ohyprox"] {
+ background-color: #5F99CF;
+ color: #FFF;
+ padding: 2px 4px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+}
+#siteTable_t3_230ky6 a.author[href$="/Titan-Xtinct"]:after,
+#siteTable_t3_230ky6 a.author[href$="/titan-net"]:after,
+#siteTable_t3_230ky6 a.author[href$="/titankyxy"]:after,
+#siteTable_t3_230ky6 a.author[href$="/nwp90hwh"]:after,
+#siteTable_t3_230ky6 a.author[href$="/Ohyprox"]:after {
+ margin-left: 5px;
+ font-weight: 100;
+ margin-bottom: 0px;
+ content: "[Titan player]";
+}
+/* Alliance AMA */
+#siteTable_t3_2fr0vl a.author[href$="/FollowAkke"],
+#siteTable_t3_2fr0vl a.author[href$="/Lodaberg"],
+#siteTable_t3_2fr0vl a.author[href$="/AdmiralBulldog"] {
+ background-color: #5F99CF;
+ color: #FFF;
+ padding: 2px 4px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+}
+#siteTable_t3_2fr0vl a.author[href$="/FollowAkke"]:after,
+#siteTable_t3_2fr0vl a.author[href$="/Lodaberg"]:after,
+#siteTable_t3_2fr0vl a.author[href$="/AdmiralBulldog"]:after {
+ margin-left: 5px;
+ font-weight: 100;
+ margin-bottom: 0px;
+ content: "[Alliance player]";
+}
+/* Arrow AMA */
+#siteTable_t3_26alr6 a.author[href$="/masterramen"],
+#siteTable_t3_26alr6 a.author[href$="/ddz125"],
+#siteTable_t3_26alr6 a.author[href$="/xiangzaiii"],
+#siteTable_t3_26alr6 a.author[href$="/MozuN"],
+#siteTable_t3_26alr6 a.author[href$="/arrowjohnny"]
+{
+ background-color: #5F99CF;
+ color: #FFF;
+ padding: 2px 4px;
+ -moz-border-radius: 3px;
+ -webkit-border-radius: 3px;
+}
+#siteTable_t3_26alr6 a.author[href$="/ddz125"]:after,
+#siteTable_t3_26alr6 a.author[href$="/xiangzaiii"]:after,
+#siteTable_t3_26alr6 a.author[href$="/MozuN"]:after,
+#siteTable_t3_26alr6 a.author[href$="/arrowjohnny"]:after
+{
+ margin-left: 5px;
+ font-weight: 100;
+ margin-bottom: 0px;
+ content: "[Arrow player]";
+}
+#siteTable_t3_26alr6 a.author[href$="/masterramen"]:after
+{
+ margin-left: 5px;
+ font-weight: 100;
+ margin-bottom: 0px;
+ content: "[Arrow manager]";
+}
+
+ul.flat-vert li {display: list-item !important;}
+
+.side .md ul{
+padding-left: 0px;
+}
+
+/*Konami Code*/
+#baconBit { 	
+position: fixed;
+width: 965px!important;
+height: 952px!important;
+background-image: url(%%easteregg%%)!important;
+top: -1%;
+left: -1%;
+z-index: 999999;
+-webkit-transform: scale(2,2), rotate(0deg);
+-moz-transform: scale(2,2) rotate(0deg); 	
+transform: scale(2,2), rotate(0deg);
+} 
+#baconBit.makeitrain {
+top: 100%;
+left: 100%;
+-webkit-transform: rotate(360deg);
+-moz-transform: rotate(360deg);
+}
+#baconBit {
+-webkit-transition: all 10s linear !important;
+-moz-transition: all 10s linear !important;
+-o-transition: all 10s linear !important;
+-ms-transition: all 10s linear !important; 
+}
+
+.md h2 { text-align: center; }
